@@ -1,0 +1,494 @@
+parameter file: page.parameters
+trace file: /root/gitee/ssdsim_bak/ssdsim/trace/test_trace
+-----------------------parameter file----------------------
+#parameter file
+dram capacity = 0;     #the unit is B
+chip number[0] = 4;
+chip number[1] = 4;
+chip number[2] = 4;
+chip number[3] = 4;
+chip number[4] = 4;
+chip number[5] = 4;
+chip number[6] = 4;
+chip number[7] = 4;
+chip number[8] = 0;
+chip number[9] = 0;
+chip number[10] = 0;
+chip number[11] = 0;
+chip number[12] = 0;
+chip number[13] = 0;
+chip number[14] = 0;
+chip number[15] = 0;
+chip number[16] = 0;
+chip number[17] = 0;
+chip number[18] = 0;
+channel number = 8;   #the number of channel
+chip number = 32;
+die number = 4;      
+plane number = 4;
+block number = 1024;
+page number = 512;
+subpage page = 8;
+page capacity = 4096;
+subpage capacity = 512;
+t_PROG = 200000;             #the unit is ns
+t_DBSY = 50;
+t_BERS = 1500000;
+t_CLS = 12;
+t_CLH = 5;
+t_CS = 20;
+t_CH = 5;
+t_WP = 12;
+t_ALS = 12;
+t_ALH = 5;
+t_DS = 12;
+t_DH = 5;
+t_WC = 5;
+t_WH = 10;
+t_ADL = 70;
+t_R = 20000;
+t_AR = 10;
+t_CLR = 10;
+t_RR = 20;
+t_RP = 12;
+t_WB = 100;
+t_RC = 5;
+t_REA = 30;
+t_CEA = 45;
+t_RHZ = 100;
+t_CHZ = 30;
+t_RHOH = 15;
+t_RLOH = 5;
+t_COH = 15;
+t_REH = 10;
+t_IR = 0;
+t_RHW = 100;
+t_WHR = 60;
+t_RST = 5000;
+erase limit=100000;                          #record the erasure number of block
+flash operating current=25000.0;               #unit is uA
+flash supply voltage=3.3;                    #voltage is 3.3V	
+dram active current=125000;                     #active current of DRAM��unit is uA
+dram standby current=50000;                     #standby current of DRAM��unit is uA 
+dram refresh current=5000;                     #refresh current of DRAM��unit is uA
+dram voltage=3.3;                      #working voltage of DRAM��unit is V    3.3V
+address mapping=1;                    #mapping schemes��1��page��2��block��3��fast
+wear leveling=1;                      #record WL algorithm mode
+gc=1;                                 #record garbage collection mode
+overprovide=0.20;                     #reserved area percentage, unavailable to users
+gc threshold=0.3;                    #GC operation begins when this threshold is reached.
+buffer management=0;                  #record buffer scheme
+scheduling algorithm=1;               #1:FCFS recordscheduling algorithm mode, 1 means FCFS
+gc hard threshold=0.7;          #
+allocation=1;                   #0 for dynamic allocation, 1 for static allocation
+static_allocation=2;            #record static allocation mode like all static allocation modes0-6 in ICS2011 paper
+dynamic_allocation=0;           #record dynamic allocation mode, 0 for all dynamic, 1 for fixed channel and dynamic package, die, plane
+advanced command=0;             #advanced command indicator, 0 for no advanced command, bin number 00001 for random, 00010 for copyback, 00100 for two-plane-program, 01000 for interleave, 10000 for two-plane-read, 11111 for using all��
+advanced command priority=0;    #0 for interleave is prior to two-plane, 1 for two-plane is prior to interleave
+greed CB command=0;            #1 for using copyback command greedily, 0 for not
+greed MPW command=0;            #1 for using multi-plane write greedily, 0 for not
+aged=0;                         #1 for making SSD aged, 0 for keeping SSD non-aged
+aged ratio=0.7;                #If we need to make SSD aged, set the aged ratio in advance
+
+active write=0;
+#extra parameters
+t_rLSB = 50000;
+t_rCSB = 65000;
+t_rMSB = 80000;
+t_pLSB = 300000;
+t_pCSB = 400000;
+t_pMSB = 500000;   
+flash type=3             #SLC:1 MLC:2 TLC:3
+version = 2  #0:base 1:gc  2:page-aware 3:isolation
+#page_allocation = 0          #0 for QDS+US 1 for QDS + UBS
+-----------------------simulation output----------------------
+chip:0,die:0,plane:0 have free page: 524288
+chip:0,die:0,plane:1 have free page: 524288
+chip:0,die:0,plane:2 have free page: 524288
+chip:0,die:0,plane:3 have free page: 524288
+chip:0,die:1,plane:0 have free page: 524288
+chip:0,die:1,plane:1 have free page: 524288
+chip:0,die:1,plane:2 have free page: 524288
+chip:0,die:1,plane:3 have free page: 524288
+chip:0,die:2,plane:0 have free page: 524288
+chip:0,die:2,plane:1 have free page: 524288
+chip:0,die:2,plane:2 have free page: 524288
+chip:0,die:2,plane:3 have free page: 524288
+chip:0,die:3,plane:0 have free page: 524288
+chip:0,die:3,plane:1 have free page: 524288
+chip:0,die:3,plane:2 have free page: 524288
+chip:0,die:3,plane:3 have free page: 524288
+chip:1,die:0,plane:0 have free page: 524288
+chip:1,die:0,plane:1 have free page: 524288
+chip:1,die:0,plane:2 have free page: 524288
+chip:1,die:0,plane:3 have free page: 524288
+chip:1,die:1,plane:0 have free page: 524288
+chip:1,die:1,plane:1 have free page: 524288
+chip:1,die:1,plane:2 have free page: 524288
+chip:1,die:1,plane:3 have free page: 524288
+chip:1,die:2,plane:0 have free page: 524288
+chip:1,die:2,plane:1 have free page: 524288
+chip:1,die:2,plane:2 have free page: 524288
+chip:1,die:2,plane:3 have free page: 524288
+chip:1,die:3,plane:0 have free page: 524288
+chip:1,die:3,plane:1 have free page: 524288
+chip:1,die:3,plane:2 have free page: 524288
+chip:1,die:3,plane:3 have free page: 524288
+chip:2,die:0,plane:0 have free page: 524288
+chip:2,die:0,plane:1 have free page: 524288
+chip:2,die:0,plane:2 have free page: 524288
+chip:2,die:0,plane:3 have free page: 524288
+chip:2,die:1,plane:0 have free page: 524288
+chip:2,die:1,plane:1 have free page: 524288
+chip:2,die:1,plane:2 have free page: 524288
+chip:2,die:1,plane:3 have free page: 524288
+chip:2,die:2,plane:0 have free page: 524288
+chip:2,die:2,plane:1 have free page: 524288
+chip:2,die:2,plane:2 have free page: 524288
+chip:2,die:2,plane:3 have free page: 524288
+chip:2,die:3,plane:0 have free page: 524288
+chip:2,die:3,plane:1 have free page: 524288
+chip:2,die:3,plane:2 have free page: 524288
+chip:2,die:3,plane:3 have free page: 524288
+chip:3,die:0,plane:0 have free page: 524288
+chip:3,die:0,plane:1 have free page: 524288
+chip:3,die:0,plane:2 have free page: 524288
+chip:3,die:0,plane:3 have free page: 524288
+chip:3,die:1,plane:0 have free page: 524288
+chip:3,die:1,plane:1 have free page: 524288
+chip:3,die:1,plane:2 have free page: 524288
+chip:3,die:1,plane:3 have free page: 524288
+chip:3,die:2,plane:0 have free page: 524288
+chip:3,die:2,plane:1 have free page: 524288
+chip:3,die:2,plane:2 have free page: 524288
+chip:3,die:2,plane:3 have free page: 524288
+chip:3,die:3,plane:0 have free page: 524288
+chip:3,die:3,plane:1 have free page: 524288
+chip:3,die:3,plane:2 have free page: 524288
+chip:3,die:3,plane:3 have free page: 524288
+chip:4,die:0,plane:0 have free page: 524288
+chip:4,die:0,plane:1 have free page: 524288
+chip:4,die:0,plane:2 have free page: 524288
+chip:4,die:0,plane:3 have free page: 524288
+chip:4,die:1,plane:0 have free page: 524288
+chip:4,die:1,plane:1 have free page: 524288
+chip:4,die:1,plane:2 have free page: 524288
+chip:4,die:1,plane:3 have free page: 524288
+chip:4,die:2,plane:0 have free page: 524288
+chip:4,die:2,plane:1 have free page: 524288
+chip:4,die:2,plane:2 have free page: 524288
+chip:4,die:2,plane:3 have free page: 524288
+chip:4,die:3,plane:0 have free page: 524288
+chip:4,die:3,plane:1 have free page: 524288
+chip:4,die:3,plane:2 have free page: 524288
+chip:4,die:3,plane:3 have free page: 524288
+chip:5,die:0,plane:0 have free page: 524288
+chip:5,die:0,plane:1 have free page: 524288
+chip:5,die:0,plane:2 have free page: 524288
+chip:5,die:0,plane:3 have free page: 524288
+chip:5,die:1,plane:0 have free page: 524288
+chip:5,die:1,plane:1 have free page: 524288
+chip:5,die:1,plane:2 have free page: 524288
+chip:5,die:1,plane:3 have free page: 524288
+chip:5,die:2,plane:0 have free page: 524288
+chip:5,die:2,plane:1 have free page: 524288
+chip:5,die:2,plane:2 have free page: 524288
+chip:5,die:2,plane:3 have free page: 524288
+chip:5,die:3,plane:0 have free page: 524288
+chip:5,die:3,plane:1 have free page: 524288
+chip:5,die:3,plane:2 have free page: 524288
+chip:5,die:3,plane:3 have free page: 524288
+chip:6,die:0,plane:0 have free page: 524288
+chip:6,die:0,plane:1 have free page: 524288
+chip:6,die:0,plane:2 have free page: 524288
+chip:6,die:0,plane:3 have free page: 524288
+chip:6,die:1,plane:0 have free page: 524288
+chip:6,die:1,plane:1 have free page: 524288
+chip:6,die:1,plane:2 have free page: 524288
+chip:6,die:1,plane:3 have free page: 524288
+chip:6,die:2,plane:0 have free page: 524288
+chip:6,die:2,plane:1 have free page: 524288
+chip:6,die:2,plane:2 have free page: 524288
+chip:6,die:2,plane:3 have free page: 524288
+chip:6,die:3,plane:0 have free page: 524288
+chip:6,die:3,plane:1 have free page: 524288
+chip:6,die:3,plane:2 have free page: 524288
+chip:6,die:3,plane:3 have free page: 524288
+chip:7,die:0,plane:0 have free page: 524288
+chip:7,die:0,plane:1 have free page: 524288
+chip:7,die:0,plane:2 have free page: 524288
+chip:7,die:0,plane:3 have free page: 524288
+chip:7,die:1,plane:0 have free page: 524288
+chip:7,die:1,plane:1 have free page: 524288
+chip:7,die:1,plane:2 have free page: 524288
+chip:7,die:1,plane:3 have free page: 524288
+chip:7,die:2,plane:0 have free page: 524288
+chip:7,die:2,plane:1 have free page: 524288
+chip:7,die:2,plane:2 have free page: 524288
+chip:7,die:2,plane:3 have free page: 524288
+chip:7,die:3,plane:0 have free page: 524288
+chip:7,die:3,plane:1 have free page: 524288
+chip:7,die:3,plane:2 have free page: 524288
+chip:7,die:3,plane:3 have free page: 524288
+									OUTPUT
+****************** TRACE INFO ******************
+      arrive           lsn     size ope     begin time    response   time    process time
+               0     391848     40  0                0           320515     320515
+           17578    2035160     16  0            17578           338093     320515
+            5859    6160424     16  0             5859           341030     335171
+           35156    1998976     24  0            35156           355671     320515
+           17578    2000168     16  0            17578           361545     343967
+           54688     391848     16  0            54688           741030     686342
+           21484    2035160      8  0            21484           758608     737124
+            5859    6160424     16  0             5859           761545     755686
+           44922    1998976      8  0            44922           776186     731264
+           41016    2000176     16  0            41016           782060     741044
+           35156    6160416     16  0            35156          1282060    1246904
+           48828    1998976      8  0            48828          1296701    1247873
+           54688    6160408     16  0            54688          1299638    1244950
+           46875    6160416     16  0            46875          1602575    1555700
+           56641    6160424     16  0            56641          2023090    1966449
+      1999906250    6267944     24  0       1999906250       2000226765     320515
+      1999992188   17599376      8  0       1999992188       2000312703     320515
+      2000025391     301248     16  0       2000025391       2000345906     320515
+      4999902344   24907264     16  0       4999902344       5000222859     320515
+      4999962891    6298064     16  0       4999962891       5000283406     320515
+      8124859375   24169672     72  0       8124859375       8125200405     341030
+      8124984375   24182776     16  0       8124984375       8125304890     320515
+      8124994141   26530064      8  0       8124994141       8125314656     320515
+      8124957031   26521856      8  0       8124957031       8125500405     543374
+      8124878906   24173144     72  0       8124878906       8125520920     642014
+      8125007812   26521864      8  0       8125007812       8125520920     513108
+      8124996094   24182904     16  0       8124996094       8125625405     629311
+      8124884766    6160416     16  0       8124884766       8125700405     815639
+      8124958984   26521856      8  0       8124958984       8125920920     961936
+      8124998047    6267960     16  0       8124998047       8125945920     947873
+      8125000000    6160424     16  0       8125000000       8126020920    1020920
+      8124970703   26521856      8  0       8124970703       8126441435    1470732
+      8124996094   26521856      8  0       8124996094       8126761950    1765856
+      8125017578   26521856      8  0       8125017578       8127182465    2164887
+      8125017578   26521856      8  0       8125017578       8127702980    2685402
+      8125017578   26521856      8  0       8125017578       8128023495    3005917
+      8125017578   26521856     16  0       8125017578       8128444010    3426432
+      8140625000   26530064      8  0       8140625000       8141045515     420515
+      8140642578   26530072      8  0       8140642578       8141379702     737124
+      8140638672   26530064      8  0       8140638672       8141566030     927358
+      8140638672   26530064     16  0       8140638672       8141886545    1247873
+      8140644531   26530064      8  0       8140644531       8142307060    1662529
+      8140644531   26530064      8  0       8140644531       8142827575    2183044
+      8140644531   26530064      8  0       8140644531       8143148090    2503559
+      8140644531   26530064      8  0       8140644531       8143568605    2924074
+      9999736328    6267968     80  0       9999736328      10000477358     741030
+      9999982422    6160416     16  0       9999982422      10000477358     494936
+      9999992188    6160400     16  0       9999992188      10000477358     485170
+     13999884766    6384920     16  0      13999884766      14000205281     320515
+     13999947266    6308328     24  0      13999947266      14000267781     320515
+     13999964844    6314200     16  0      13999964844      14000285359     320515
+     13999960938    6410216     16  0      13999960938      14000288296     327358
+     13999964844    6304536     16  0      13999964844      14000305874     341030
+     13999964844    6410376     16  0      13999964844      14000400014     435170
+     13999958984    6304000     16  0      13999958984      14000479499     520515
+     13999933594    6410576     24  0      13999933594      14000525796     592202
+     13999964844    6367608     16  0      13999964844      14000800014     835170
+     13999964844    6410528     16  0      13999964844      14000846311     881467
+     14999714844    6268040     80  0      14999714844      15000455874     741030
+     14999951172    6160424     16  0      14999951172      15000555874     604702
+     14999960938    6160408     16  0      14999960938      15000555874     594936
+     17999806641    1998992     16  0      17999806641      18000327156     520515
+     19999755859    6268112     80  0      19999755859      20000176374     420515
+     19999921875   17777168     16  0      19999921875      20000242390     320515
+     19999927734   17777208     16  0      19999927734      20000248249     320515
+     19999777344   17776680     24  0      19999777344      20000596889     819545
+     19999929688    6160400     16  0      19999929688      20000596889     667201
+     19999923828    6160416     16  0      19999923828      20000817404     893576
+     20999755859   24213992     16  0      20999755859      21000076374     320515
+     20999789062   24665856      8  0      20999789062      21000109577     320515
+     20999919922   24665848     16  0      20999919922      21000530092     610170
+     22999789062   23070752     16  0      22999789062      23000109577     320515
+     24999894531    6160408     16  0      24999894531      25000315046     420515
+     24999886719    6160424     16  0      24999886719      25000407234     520515
+     24999667969    6268184     72  0      24999667969      25000408999     741030
+     25515392578    2330520     24  0      25515392578      25515713093     320515
+     25515400391    2769416      8  0      25515400391      25515720906     320515
+     25515433594    1296736     16  0      25515433594      25515754109     320515
+     25515457031    6160424     16  0      25515457031      25515877546     420515
+     25515474609     844952     16  0      25515474609      25515895124     420515
+     25515472656   12424496     24  0      25515472656      25515993171     520515
+     25515507812    6268248     16  0      25515507812      25516074624     566812
+     25515484375    2330520     24  0      25515484375      25516133608     649233
+     25515431641    2769416      8  0      25515431641      25516141421     709780
+     25515482422    6160424     16  0      25515482422      25516398061     915639
+     25515494141   12424496     24  0      25515494141      25516413686     919545
+     25515464844    1296736     16  0      25515464844      25516495139    1030295
+     25515517578    6160416     16  0      25515517578      25516718576    1200998
+     25515519531    6160416     16  0      25515519531      25517039091    1519560
+     25515498047     844952     16  0      25515498047      25517256669    1758622
+     25515486328   23484512     24  0      25515486328      25517577184    2090856
+     25515496094   23484512     24  0      25515496094      25517997699    2501605
+     25999738281    1144880     16  0      25999738281      26000058796     320515
+     25999777344   26278160      8  0      25999777344      26000097859     320515
+     29999841797    6160416     16  0      29999841797      30000262312     420515
+     29999613281    6268256     80  0      29999613281      30000354311     741030
+     29999865234    6160400     16  0      29999865234      30000385749     520515
+     34999707031   24907264     16  0      34999707031      35000127546     420515
+     34999792969    6308336     16  0      34999792969      35000213484     420515
+the 0 channel, 0 chip, 0 die, 0 plane has :             0 erase operations
+the 0 channel, 0 chip, 0 die, 1 plane has :             0 erase operations
+the 0 channel, 0 chip, 0 die, 2 plane has :             0 erase operations
+the 0 channel, 0 chip, 0 die, 3 plane has :             0 erase operations
+the 0 channel, 0 chip, 1 die, 0 plane has :             0 erase operations
+the 0 channel, 0 chip, 1 die, 1 plane has :             0 erase operations
+the 0 channel, 0 chip, 1 die, 2 plane has :             0 erase operations
+the 0 channel, 0 chip, 1 die, 3 plane has :             0 erase operations
+the 0 channel, 0 chip, 2 die, 0 plane has :             0 erase operations
+the 0 channel, 0 chip, 2 die, 1 plane has :             0 erase operations
+the 0 channel, 0 chip, 2 die, 2 plane has :             0 erase operations
+the 0 channel, 0 chip, 2 die, 3 plane has :             0 erase operations
+the 0 channel, 0 chip, 3 die, 0 plane has :             0 erase operations
+the 0 channel, 0 chip, 3 die, 1 plane has :             0 erase operations
+the 0 channel, 0 chip, 3 die, 2 plane has :             0 erase operations
+the 0 channel, 0 chip, 3 die, 3 plane has :             0 erase operations
+the 1 channel, 0 chip, 0 die, 0 plane has :             0 erase operations
+the 1 channel, 0 chip, 0 die, 1 plane has :             0 erase operations
+the 1 channel, 0 chip, 0 die, 2 plane has :             0 erase operations
+the 1 channel, 0 chip, 0 die, 3 plane has :             0 erase operations
+the 1 channel, 0 chip, 1 die, 0 plane has :             0 erase operations
+the 1 channel, 0 chip, 1 die, 1 plane has :             0 erase operations
+the 1 channel, 0 chip, 1 die, 2 plane has :             0 erase operations
+the 1 channel, 0 chip, 1 die, 3 plane has :             0 erase operations
+the 1 channel, 0 chip, 2 die, 0 plane has :             0 erase operations
+the 1 channel, 0 chip, 2 die, 1 plane has :             0 erase operations
+the 1 channel, 0 chip, 2 die, 2 plane has :             0 erase operations
+the 1 channel, 0 chip, 2 die, 3 plane has :             0 erase operations
+the 1 channel, 0 chip, 3 die, 0 plane has :             0 erase operations
+the 1 channel, 0 chip, 3 die, 1 plane has :             0 erase operations
+the 1 channel, 0 chip, 3 die, 2 plane has :             0 erase operations
+the 1 channel, 0 chip, 3 die, 3 plane has :             0 erase operations
+the 2 channel, 0 chip, 0 die, 0 plane has :             0 erase operations
+the 2 channel, 0 chip, 0 die, 1 plane has :             0 erase operations
+the 2 channel, 0 chip, 0 die, 2 plane has :             0 erase operations
+the 2 channel, 0 chip, 0 die, 3 plane has :             0 erase operations
+the 2 channel, 0 chip, 1 die, 0 plane has :             0 erase operations
+the 2 channel, 0 chip, 1 die, 1 plane has :             0 erase operations
+the 2 channel, 0 chip, 1 die, 2 plane has :             0 erase operations
+the 2 channel, 0 chip, 1 die, 3 plane has :             0 erase operations
+the 2 channel, 0 chip, 2 die, 0 plane has :             0 erase operations
+the 2 channel, 0 chip, 2 die, 1 plane has :             0 erase operations
+the 2 channel, 0 chip, 2 die, 2 plane has :             0 erase operations
+the 2 channel, 0 chip, 2 die, 3 plane has :             0 erase operations
+the 2 channel, 0 chip, 3 die, 0 plane has :             0 erase operations
+the 2 channel, 0 chip, 3 die, 1 plane has :             0 erase operations
+the 2 channel, 0 chip, 3 die, 2 plane has :             0 erase operations
+the 2 channel, 0 chip, 3 die, 3 plane has :             0 erase operations
+the 3 channel, 0 chip, 0 die, 0 plane has :             0 erase operations
+the 3 channel, 0 chip, 0 die, 1 plane has :             0 erase operations
+the 3 channel, 0 chip, 0 die, 2 plane has :             0 erase operations
+the 3 channel, 0 chip, 0 die, 3 plane has :             0 erase operations
+the 3 channel, 0 chip, 1 die, 0 plane has :             0 erase operations
+the 3 channel, 0 chip, 1 die, 1 plane has :             0 erase operations
+the 3 channel, 0 chip, 1 die, 2 plane has :             0 erase operations
+the 3 channel, 0 chip, 1 die, 3 plane has :             0 erase operations
+the 3 channel, 0 chip, 2 die, 0 plane has :             0 erase operations
+the 3 channel, 0 chip, 2 die, 1 plane has :             0 erase operations
+the 3 channel, 0 chip, 2 die, 2 plane has :             0 erase operations
+the 3 channel, 0 chip, 2 die, 3 plane has :             0 erase operations
+the 3 channel, 0 chip, 3 die, 0 plane has :             0 erase operations
+the 3 channel, 0 chip, 3 die, 1 plane has :             0 erase operations
+the 3 channel, 0 chip, 3 die, 2 plane has :             0 erase operations
+the 3 channel, 0 chip, 3 die, 3 plane has :             0 erase operations
+the 4 channel, 0 chip, 0 die, 0 plane has :             0 erase operations
+the 4 channel, 0 chip, 0 die, 1 plane has :             0 erase operations
+the 4 channel, 0 chip, 0 die, 2 plane has :             0 erase operations
+the 4 channel, 0 chip, 0 die, 3 plane has :             0 erase operations
+the 4 channel, 0 chip, 1 die, 0 plane has :             0 erase operations
+the 4 channel, 0 chip, 1 die, 1 plane has :             0 erase operations
+the 4 channel, 0 chip, 1 die, 2 plane has :             0 erase operations
+the 4 channel, 0 chip, 1 die, 3 plane has :             0 erase operations
+the 4 channel, 0 chip, 2 die, 0 plane has :             0 erase operations
+the 4 channel, 0 chip, 2 die, 1 plane has :             0 erase operations
+the 4 channel, 0 chip, 2 die, 2 plane has :             0 erase operations
+the 4 channel, 0 chip, 2 die, 3 plane has :             0 erase operations
+the 4 channel, 0 chip, 3 die, 0 plane has :             0 erase operations
+the 4 channel, 0 chip, 3 die, 1 plane has :             0 erase operations
+the 4 channel, 0 chip, 3 die, 2 plane has :             0 erase operations
+the 4 channel, 0 chip, 3 die, 3 plane has :             0 erase operations
+the 5 channel, 0 chip, 0 die, 0 plane has :             0 erase operations
+the 5 channel, 0 chip, 0 die, 1 plane has :             0 erase operations
+the 5 channel, 0 chip, 0 die, 2 plane has :             0 erase operations
+the 5 channel, 0 chip, 0 die, 3 plane has :             0 erase operations
+the 5 channel, 0 chip, 1 die, 0 plane has :             0 erase operations
+the 5 channel, 0 chip, 1 die, 1 plane has :             0 erase operations
+the 5 channel, 0 chip, 1 die, 2 plane has :             0 erase operations
+the 5 channel, 0 chip, 1 die, 3 plane has :             0 erase operations
+the 5 channel, 0 chip, 2 die, 0 plane has :             0 erase operations
+the 5 channel, 0 chip, 2 die, 1 plane has :             0 erase operations
+the 5 channel, 0 chip, 2 die, 2 plane has :             0 erase operations
+the 5 channel, 0 chip, 2 die, 3 plane has :             0 erase operations
+the 5 channel, 0 chip, 3 die, 0 plane has :             0 erase operations
+the 5 channel, 0 chip, 3 die, 1 plane has :             0 erase operations
+the 5 channel, 0 chip, 3 die, 2 plane has :             0 erase operations
+the 5 channel, 0 chip, 3 die, 3 plane has :             0 erase operations
+the 6 channel, 0 chip, 0 die, 0 plane has :             0 erase operations
+the 6 channel, 0 chip, 0 die, 1 plane has :             0 erase operations
+the 6 channel, 0 chip, 0 die, 2 plane has :             0 erase operations
+the 6 channel, 0 chip, 0 die, 3 plane has :             0 erase operations
+the 6 channel, 0 chip, 1 die, 0 plane has :             0 erase operations
+the 6 channel, 0 chip, 1 die, 1 plane has :             0 erase operations
+the 6 channel, 0 chip, 1 die, 2 plane has :             0 erase operations
+the 6 channel, 0 chip, 1 die, 3 plane has :             0 erase operations
+the 6 channel, 0 chip, 2 die, 0 plane has :             0 erase operations
+the 6 channel, 0 chip, 2 die, 1 plane has :             0 erase operations
+the 6 channel, 0 chip, 2 die, 2 plane has :             0 erase operations
+the 6 channel, 0 chip, 2 die, 3 plane has :             0 erase operations
+the 6 channel, 0 chip, 3 die, 0 plane has :             0 erase operations
+the 6 channel, 0 chip, 3 die, 1 plane has :             0 erase operations
+the 6 channel, 0 chip, 3 die, 2 plane has :             0 erase operations
+the 6 channel, 0 chip, 3 die, 3 plane has :             0 erase operations
+the 7 channel, 0 chip, 0 die, 0 plane has :             0 erase operations
+the 7 channel, 0 chip, 0 die, 1 plane has :             0 erase operations
+the 7 channel, 0 chip, 0 die, 2 plane has :             0 erase operations
+the 7 channel, 0 chip, 0 die, 3 plane has :             0 erase operations
+the 7 channel, 0 chip, 1 die, 0 plane has :             0 erase operations
+the 7 channel, 0 chip, 1 die, 1 plane has :             0 erase operations
+the 7 channel, 0 chip, 1 die, 2 plane has :             0 erase operations
+the 7 channel, 0 chip, 1 die, 3 plane has :             0 erase operations
+the 7 channel, 0 chip, 2 die, 0 plane has :             0 erase operations
+the 7 channel, 0 chip, 2 die, 1 plane has :             0 erase operations
+the 7 channel, 0 chip, 2 die, 2 plane has :             0 erase operations
+the 7 channel, 0 chip, 2 die, 3 plane has :             0 erase operations
+the 7 channel, 0 chip, 3 die, 0 plane has :             0 erase operations
+the 7 channel, 0 chip, 3 die, 1 plane has :             0 erase operations
+the 7 channel, 0 chip, 3 die, 2 plane has :             0 erase operations
+the 7 channel, 0 chip, 3 die, 3 plane has :             0 erase operations
+
+
+---------------------------statistic data---------------------------
+min lsn:        301248
+max lsn:      26530072
+read count:             0
+program count:           241                        include the flash write count leaded by read requests
+the read operation leaded by un-covered update count:             0
+erase count:             0
+direct erase count:             0
+copy back count:             0
+multi-plane program count:             0
+multi-plane read count:             0
+interleave write count:             0
+interleave read count:             0
+interleave two plane and one program count:             0
+interleave two plane count:             0
+gc copy back count:             0
+write flash count:           241
+interleave erase count:             0
+multiple plane erase count:             0
+interleave multiple plane erase count:             0
+read request count:             0
+write request count:            99
+read request average size:      0.000000
+write request average size:     18.929420
+write request average response time: 843037
+buffer read hits:             0
+buffer read miss:             0
+buffer write hits:             0
+buffer write miss:             0
+erase:             0

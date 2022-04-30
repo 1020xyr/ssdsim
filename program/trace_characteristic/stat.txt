@@ -1,0 +1,130 @@
+******trace/HM_0 statistics******
+read number=249162, write number=750839
+read request size=5787256, write request size=16837464
+read ratio=0.25
+read average request size =23.2
+write average request size=22.4
+update write size=15236000
+update write ratio=0.90
+time interval=195.2ms
+
+******trace/HM_1 statistics******
+read number=493383, write number=15928
+read request size=17912688, write request size=728224
+read ratio=0.97
+read average request size =36.3
+write average request size=45.7
+update write size=513328
+update write ratio=0.70
+time interval=528.0ms
+
+******trace/PRN_0 statistics******
+read number=106344, write number=893657
+read request size=5647664, write request size=24904896
+read ratio=0.11
+read average request size =53.1
+write average request size=27.9
+update write size=19487376
+update write ratio=0.78
+time interval=119.0ms
+
+******trace/PRN_1 statistics******
+read number=691518, write number=308483
+read request size=25339136, write request size=8502504
+read ratio=0.69
+read average request size =36.6
+write average request size=27.6
+update write size=5023344
+update write ratio=0.59
+time interval=22.1ms
+
+******trace/PROJ_1 statistics******
+read number=906644, write number=93357
+read request size=78753504, write request size=4150696
+read ratio=0.91
+read average request size =86.9
+write average request size=44.5
+update write size=894784
+update write ratio=0.22
+time interval=13.6ms
+
+******trace/PROJ_3 statistics******
+read number=903390, write number=96611
+read request size=27156264, write request size=5824648
+read ratio=0.90
+read average request size =30.1
+write average request size=60.3
+update write size=1933664
+update write ratio=0.33
+time interval=120.1ms
+
+******trace/PROJ_4 statistics******
+read number=963755, write number=36246
+read request size=19995592, write request size=1074096
+read ratio=0.96
+read average request size =20.7
+write average request size=29.6
+update write size=644944
+update write ratio=0.60
+time interval=367.9ms
+
+******trace/PRXY_0 statistics******
+read number=29362, write number=970639
+read request size=570704, write request size=12188096
+read ratio=0.03
+read average request size =19.4
+write average request size=12.6
+update write size=11823888
+update write ratio=0.97
+time interval=48.1ms
+
+******trace/RSRCH statistics******
+read number=90442, write number=909559
+read request size=2840216, write request size=23099336
+read ratio=0.09
+read average request size =31.4
+write average request size=25.4
+update write size=22527672
+update write ratio=0.98
+time interval=441.1ms
+
+******trace/SRC1_2 statistics******
+read number=153632, write number=846369
+read request size=5209504, write request size=75468912
+read ratio=0.15
+read average request size =33.9
+write average request size=89.2
+update write size=74122672
+update write ratio=0.98
+time interval=170.7ms
+
+******trace/SRC2_0 statistics******
+read number=135066, write number=864935
+read request size=3414496, write request size=19060768
+read ratio=0.14
+read average request size =25.3
+write average request size=22.0
+update write size=18052632
+update write ratio=0.95
+time interval=481.0ms
+
+******trace/SRC2_2 statistics******
+read number=279983, write number=720018
+read request size=49422776, write request size=83212696
+read ratio=0.28
+read average request size =176.5
+write average request size=115.6
+update write size=41142072
+update write ratio=0.49
+time interval=260.8ms
+
+******trace/STG_0 statistics******
+read number=230897, write number=769104
+read request size=15496472, write request size=19519904
+read ratio=0.23
+read average request size =67.1
+write average request size=25.4
+update write size=18942624
+update write ratio=0.97
+time interval=336.0ms
+

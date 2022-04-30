@@ -1,0 +1,256 @@
+******/root/gitee/ssdsim_bak/ssdsim/trace/test_trace******
+min lsn:        301248
+max lsn:      26530072
+read count:             0
+program count:           241                        include the flash write count leaded by read requests
+the read operation leaded by un-covered update count:             0
+erase count:             0
+direct erase count:             0
+copy back count:             0
+multi-plane program count:             0
+multi-plane read count:             0
+interleave count:             0
+interleave read count:             0
+interleave two plane and one program count:             0
+interleave two plane count:             0
+gc copy back count:             0
+write flash count:           241
+waste page count:             0
+interleave erase count:             0
+multiple plane erase count:             0
+interleave multiple plane erase count:             0
+read request count:             0
+write request count:            99
+read request average size:      0.000000
+write request average size:     18.566488
+write request average response time: 203204539
+update write count: 88
+buffer read hits:             0
+buffer read miss:             0
+buffer write hits:             0
+buffer write miss:             0
+erase:             0
+******/root/gitee/ssdsim_bak/ssdsim/trace/test_trace******
+min lsn:        301248
+max lsn:      26530072
+read count:             0
+program count:           241                        include the flash write count leaded by read requests
+the read operation leaded by un-covered update count:             0
+erase count:             0
+direct erase count:             0
+copy back count:             0
+multi-plane program count:             0
+multi-plane read count:             0
+interleave count:             0
+interleave read count:             0
+interleave two plane and one program count:             0
+interleave two plane count:             0
+gc copy back count:             0
+write flash count:           241
+waste page count:             0
+interleave erase count:             0
+multiple plane erase count:             0
+interleave multiple plane erase count:             0
+read request count:             0
+write request count:            99
+read request average size:      0.000000
+write request average size:     18.929420
+write request average response time: 843037
+update write count: 88
+buffer read hits:             0
+buffer read miss:             0
+buffer write hits:             0
+buffer write miss:             0
+erase:             0
+******/root/gitee/ssdsim_bak/ssdsim/trace/test_trace******
+min lsn:        301248
+max lsn:      26530072
+read count:             0
+program count:           241                        include the flash write count leaded by read requests
+the read operation leaded by un-covered update count:             0
+erase count:             0
+direct erase count:             0
+copy back count:             0
+multi-plane program count:             0
+multi-plane read count:             0
+interleave count:             0
+interleave read count:             0
+interleave two plane and one program count:             0
+interleave two plane count:             0
+gc copy back count:             0
+write flash count:           241
+waste page count:             0
+interleave erase count:             0
+multiple plane erase count:             0
+interleave multiple plane erase count:             0
+read request count:             0
+write request count:            99
+read request average size:      0.000000
+write request average size:     18.929420
+write request average response time: 843037
+update write count: 88
+buffer read hits:             0
+buffer read miss:             0
+buffer write hits:             0
+buffer write miss:             0
+erase:             0
+******/root/gitee/ssdsim_bak/ssdsim/trace/test_trace******
+min lsn:        301248
+max lsn:      26530072
+read count:             0
+program count:           241                        include the flash write count leaded by read requests
+the read operation leaded by un-covered update count:             0
+erase count:             0
+direct erase count:             0
+copy back count:             0
+multi-plane program count:             0
+multi-plane read count:             0
+interleave count:             0
+interleave read count:             0
+interleave two plane and one program count:             0
+interleave two plane count:             0
+gc copy back count:             0
+write flash count:           241
+waste page count:             0
+interleave erase count:             0
+multiple plane erase count:             0
+interleave multiple plane erase count:             0
+read request count:             0
+write request count:            99
+read request average size:      0.000000
+write request average size:     18.929420
+write request average response time: 843037
+update write count: 88
+buffer read hits:             0
+buffer read miss:             0
+buffer write hits:             0
+buffer write miss:             0
+erase:             0
+******/root/gitee/ssdsim_bak/ssdsim/trace/test_trace******
+min lsn:        301248
+max lsn:      26530072
+read count:             0
+program count:           241                        include the flash write count leaded by read requests
+the read operation leaded by un-covered update count:             0
+erase count:             0
+direct erase count:             0
+copy back count:             0
+multi-plane program count:             0
+multi-plane read count:             0
+interleave count:             0
+interleave read count:             0
+interleave two plane and one program count:             0
+interleave two plane count:             0
+gc copy back count:             0
+write flash count:           241
+waste page count:             0
+interleave erase count:             0
+multiple plane erase count:             0
+interleave multiple plane erase count:             0
+read request count:             0
+write request count:            99
+read request average size:      0.000000
+write request average size:     18.929420
+write request average response time: 843037
+update write count: 88
+buffer read hits:             0
+buffer read miss:             0
+buffer write hits:             0
+buffer write miss:             0
+erase:             0
+******/root/gitee/ssdsim_bak/ssdsim/trace/test_trace******
+min lsn:        301248
+max lsn:      26530072
+read count:             0
+program count:           241                        include the flash write count leaded by read requests
+the read operation leaded by un-covered update count:             0
+erase count:             0
+direct erase count:             0
+copy back count:             0
+multi-plane program count:             0
+multi-plane read count:             0
+interleave count:             0
+interleave read count:             0
+interleave two plane and one program count:             0
+interleave two plane count:             0
+gc copy back count:             0
+write flash count:           241
+waste page count:             0
+interleave erase count:             0
+multiple plane erase count:             0
+interleave multiple plane erase count:             0
+read request count:             0
+write request count:            99
+read request average size:      0.000000
+write request average size:     18.929420
+write request average response time: 843037
+update write count: 88
+buffer read hits:             0
+buffer read miss:             0
+buffer write hits:             0
+buffer write miss:             0
+erase:             0
+******/root/gitee/ssdsim_bak/ssdsim/trace/test_trace******
+min lsn:        301248
+max lsn:      26530072
+read count:             0
+program count:           241                        include the flash write count leaded by read requests
+the read operation leaded by un-covered update count:             0
+erase count:             0
+direct erase count:             0
+copy back count:             0
+multi-plane program count:             0
+multi-plane read count:             0
+interleave count:             0
+interleave read count:             0
+interleave two plane and one program count:             0
+interleave two plane count:             0
+gc copy back count:             0
+write flash count:           241
+waste page count:             0
+interleave erase count:             0
+multiple plane erase count:             0
+interleave multiple plane erase count:             0
+read request count:             0
+write request count:            99
+read request average size:      0.000000
+write request average size:     18.929420
+write request average response time: 843037
+update write count: 88
+buffer read hits:             0
+buffer read miss:             0
+buffer write hits:             0
+buffer write miss:             0
+erase:             0
+******/root/gitee/ssdsim_bak/ssdsim/trace/test_trace******
+min lsn:        301248
+max lsn:      26530072
+read count:             0
+program count:           241                        include the flash write count leaded by read requests
+the read operation leaded by un-covered update count:             0
+erase count:             0
+direct erase count:             0
+copy back count:             0
+multi-plane program count:             0
+multi-plane read count:             0
+interleave count:             0
+interleave read count:             0
+interleave two plane and one program count:             0
+interleave two plane count:             0
+gc copy back count:             0
+write flash count:           241
+waste page count:             0
+interleave erase count:             0
+multiple plane erase count:             0
+interleave multiple plane erase count:             0
+read request count:             0
+write request count:            99
+read request average size:      0.000000
+write request average size:     18.929420
+write request average response time: 843037
+update write count: 88
+buffer read hits:             0
+buffer read miss:             0
+buffer write hits:             0
+buffer write miss:             0
+erase:             0

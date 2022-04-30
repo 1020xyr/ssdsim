@@ -1,0 +1,964 @@
+lpn:788543 begin time:34999792969 complete time:35000213484 process time:420515
+channel 7 chip 1 die 0 plane 3 block 0 page 1
+lpn:788542 begin time:34999792969 complete time:35000213484 process time:420515
+channel 6 chip 1 die 0 plane 3 block 0 page 1
+lpn:3113409 begin time:34999707031 complete time:35000127546 process time:420515
+channel 1 chip 2 die 3 plane 0 block 0 page 1
+lpn:3113408 begin time:34999707031 complete time:35000127546 process time:420515
+channel 0 chip 2 die 3 plane 0 block 0 page 1
+lpn:770051 begin time:29999865234 complete time:30000385749 process time:520515
+channel 3 chip 0 die 0 plane 0 block 0 page 5
+lpn:770050 begin time:29999865234 complete time:30000385749 process time:520515
+channel 2 chip 0 die 0 plane 0 block 0 page 2
+lpn:783541 begin time:29999613281 complete time:30000254311 process time:641030
+channel 5 chip 1 die 1 plane 2 block 0 page 0
+lpn:783540 begin time:29999613281 complete time:30000354311 process time:741030
+channel 4 chip 1 die 1 plane 2 block 0 page 0
+lpn:783539 begin time:29999613281 complete time:29999933796 process time:320515
+channel 3 chip 1 die 1 plane 2 block 0 page 0
+lpn:783538 begin time:29999613281 complete time:29999933796 process time:320515
+channel 2 chip 1 die 1 plane 2 block 0 page 0
+lpn:783537 begin time:29999613281 complete time:29999933796 process time:320515
+channel 1 chip 1 die 1 plane 2 block 0 page 0
+lpn:783536 begin time:29999613281 complete time:29999933796 process time:320515
+channel 0 chip 1 die 1 plane 2 block 0 page 0
+lpn:783535 begin time:29999613281 complete time:29999933796 process time:320515
+channel 7 chip 1 die 1 plane 1 block 0 page 0
+lpn:783534 begin time:29999613281 complete time:29999933796 process time:320515
+channel 6 chip 1 die 1 plane 1 block 0 page 0
+lpn:783533 begin time:29999613281 complete time:29999933796 process time:320515
+channel 5 chip 1 die 1 plane 1 block 0 page 0
+lpn:783532 begin time:29999613281 complete time:30000033796 process time:420515
+channel 4 chip 1 die 1 plane 1 block 0 page 1
+lpn:770053 begin time:29999841797 complete time:30000262312 process time:420515
+channel 5 chip 0 die 0 plane 0 block 0 page 16
+lpn:770052 begin time:29999841797 complete time:30000262312 process time:420515
+channel 4 chip 0 die 0 plane 0 block 0 page 10
+lpn:3284770 begin time:25999777344 complete time:26000097859 process time:320515
+channel 2 chip 1 die 2 plane 0 block 0 page 0
+lpn:143111 begin time:25999738281 complete time:26000058796 process time:320515
+channel 7 chip 0 die 2 plane 0 block 0 page 0
+lpn:143110 begin time:25999738281 complete time:26000058796 process time:320515
+channel 6 chip 0 die 2 plane 0 block 0 page 0
+lpn:2935566 begin time:25515496094 complete time:25517139091 process time:1642997
+channel 6 chip 0 die 2 plane 1 block 0 page 1
+lpn:2935565 begin time:25515496094 complete time:25517780121 process time:2284027
+channel 5 chip 0 die 2 plane 1 block 0 page 1
+lpn:2935564 begin time:25515496094 complete time:25517997699 process time:2501605
+channel 4 chip 0 die 2 plane 1 block 0 page 1
+lpn:2935566 begin time:25515486328 complete time:25516718576 process time:1232248
+channel 6 chip 0 die 2 plane 1 block 0 page 0
+lpn:2935565 begin time:25515486328 complete time:25517359606 process time:1873278
+channel 5 chip 0 die 2 plane 1 block 0 page 0
+lpn:2935564 begin time:25515486328 complete time:25517577184 process time:2090856
+channel 4 chip 0 die 2 plane 1 block 0 page 0
+lpn:105620 begin time:25515498047 complete time:25517256669 process time:1758622
+channel 4 chip 0 die 1 plane 2 block 0 page 2
+lpn:105619 begin time:25515498047 complete time:25516415639 process time:917592
+channel 3 chip 0 die 1 plane 2 block 0 page 2
+lpn:770053 begin time:25515519531 complete time:25517039091 process time:1519560
+channel 5 chip 0 die 0 plane 0 block 0 page 15
+lpn:770052 begin time:25515519531 complete time:25516736154 process time:1216623
+channel 4 chip 0 die 0 plane 0 block 0 page 9
+lpn:770053 begin time:25515517578 complete time:25516718576 process time:1200998
+channel 5 chip 0 die 0 plane 0 block 0 page 14
+lpn:770052 begin time:25515517578 complete time:25516415639 process time:898061
+channel 4 chip 0 die 0 plane 0 block 0 page 8
+lpn:162093 begin time:25515464844 complete time:25516174624 process time:709780
+channel 5 chip 1 die 2 plane 1 block 0 page 1
+lpn:162092 begin time:25515464844 complete time:25516495139 process time:1030295
+channel 4 chip 1 die 2 plane 1 block 0 page 1
+lpn:1553064 begin time:25515494141 complete time:25516413686 process time:919545
+channel 0 chip 1 die 1 plane 1 block 0 page 2
+lpn:1553063 begin time:25515494141 complete time:25516313686 process time:819545
+channel 7 chip 1 die 1 plane 0 block 0 page 3
+lpn:1553062 begin time:25515494141 complete time:25516218576 process time:724435
+channel 6 chip 1 die 1 plane 0 block 0 page 4
+lpn:770054 begin time:25515482422 complete time:25516398061 process time:915639
+channel 6 chip 0 die 0 plane 0 block 0 page 8
+lpn:770053 begin time:25515482422 complete time:25516198061 process time:715639
+channel 5 chip 0 die 0 plane 0 block 0 page 13
+lpn:346177 begin time:25515431641 complete time:25516141421 process time:709780
+channel 1 chip 2 die 0 plane 0 block 0 page 1
+lpn:291317 begin time:25515484375 complete time:25516133608 process time:649233
+channel 5 chip 3 die 3 plane 2 block 0 page 1
+lpn:291316 begin time:25515484375 complete time:25516133608 process time:649233
+channel 4 chip 3 die 3 plane 2 block 0 page 1
+lpn:291315 begin time:25515484375 complete time:25516133608 process time:649233
+channel 3 chip 3 die 3 plane 2 block 0 page 1
+lpn:783532 begin time:25515507812 complete time:25516074624 process time:566812
+channel 4 chip 1 die 1 plane 1 block 0 page 0
+lpn:783531 begin time:25515507812 complete time:25515928327 process time:420515
+channel 3 chip 1 die 1 plane 1 block 0 page 1
+lpn:1553064 begin time:25515472656 complete time:25515893171 process time:420515
+channel 0 chip 1 die 1 plane 1 block 0 page 1
+lpn:1553063 begin time:25515472656 complete time:25515993171 process time:520515
+channel 7 chip 1 die 1 plane 0 block 0 page 2
+lpn:1553062 begin time:25515472656 complete time:25515798061 process time:325405
+channel 6 chip 1 die 1 plane 0 block 0 page 3
+lpn:105620 begin time:25515474609 complete time:25515895124 process time:420515
+channel 4 chip 0 die 1 plane 2 block 0 page 1
+lpn:105619 begin time:25515474609 complete time:25515895124 process time:420515
+channel 3 chip 0 die 1 plane 2 block 0 page 1
+lpn:770054 begin time:25515457031 complete time:25515877546 process time:420515
+channel 6 chip 0 die 0 plane 0 block 0 page 7
+lpn:770053 begin time:25515457031 complete time:25515777546 process time:320515
+channel 5 chip 0 die 0 plane 0 block 0 page 12
+lpn:162093 begin time:25515433594 complete time:25515754109 process time:320515
+channel 5 chip 1 die 2 plane 1 block 0 page 0
+lpn:162092 begin time:25515433594 complete time:25515754109 process time:320515
+channel 4 chip 1 die 2 plane 1 block 0 page 0
+lpn:346177 begin time:25515400391 complete time:25515720906 process time:320515
+channel 1 chip 2 die 0 plane 0 block 0 page 0
+lpn:291317 begin time:25515392578 complete time:25515713093 process time:320515
+channel 5 chip 3 die 3 plane 2 block 0 page 0
+lpn:291316 begin time:25515392578 complete time:25515713093 process time:320515
+channel 4 chip 3 die 3 plane 2 block 0 page 0
+lpn:291315 begin time:25515392578 complete time:25515713093 process time:320515
+channel 3 chip 3 die 3 plane 2 block 0 page 0
+lpn:783531 begin time:24999667969 complete time:25000408999 process time:741030
+channel 3 chip 1 die 1 plane 1 block 0 page 0
+lpn:783530 begin time:24999667969 complete time:24999988484 process time:320515
+channel 2 chip 1 die 1 plane 1 block 0 page 0
+lpn:783529 begin time:24999667969 complete time:24999988484 process time:320515
+channel 1 chip 1 die 1 plane 1 block 0 page 0
+lpn:783528 begin time:24999667969 complete time:24999988484 process time:320515
+channel 0 chip 1 die 1 plane 1 block 0 page 0
+lpn:783527 begin time:24999667969 complete time:25000088484 process time:420515
+channel 7 chip 1 die 1 plane 0 block 0 page 1
+lpn:783526 begin time:24999667969 complete time:25000188484 process time:520515
+channel 6 chip 1 die 1 plane 0 block 0 page 2
+lpn:783525 begin time:24999667969 complete time:25000088484 process time:420515
+channel 5 chip 1 die 1 plane 0 block 0 page 1
+lpn:783524 begin time:24999667969 complete time:24999988484 process time:320515
+channel 4 chip 1 die 1 plane 0 block 0 page 0
+lpn:783523 begin time:24999667969 complete time:25000088484 process time:420515
+channel 3 chip 1 die 1 plane 0 block 0 page 1
+lpn:770054 begin time:24999886719 complete time:25000207234 process time:320515
+channel 6 chip 0 die 0 plane 0 block 0 page 6
+lpn:770053 begin time:24999886719 complete time:25000407234 process time:520515
+channel 5 chip 0 die 0 plane 0 block 0 page 11
+lpn:770052 begin time:24999894531 complete time:25000315046 process time:420515
+channel 4 chip 0 die 0 plane 0 block 0 page 7
+lpn:770051 begin time:24999894531 complete time:25000315046 process time:420515
+channel 3 chip 0 die 0 plane 0 block 0 page 4
+lpn:2883845 begin time:22999789062 complete time:23000109577 process time:320515
+channel 5 chip 0 die 2 plane 0 block 0 page 0
+lpn:2883844 begin time:22999789062 complete time:23000109577 process time:320515
+channel 4 chip 0 die 2 plane 0 block 0 page 0
+lpn:3083232 begin time:20999919922 complete time:21000530092 process time:610170
+channel 0 chip 3 die 3 plane 0 block 0 page 1
+lpn:3083231 begin time:20999919922 complete time:21000240437 process time:320515
+channel 7 chip 2 die 3 plane 3 block 0 page 0
+lpn:3083232 begin time:20999789062 complete time:21000109577 process time:320515
+channel 0 chip 3 die 3 plane 0 block 0 page 0
+lpn:3026750 begin time:20999755859 complete time:21000076374 process time:320515
+channel 6 chip 1 die 2 plane 3 block 0 page 0
+lpn:3026749 begin time:20999755859 complete time:21000076374 process time:320515
+channel 5 chip 1 die 2 plane 3 block 0 page 0
+lpn:770053 begin time:19999923828 complete time:20000817404 process time:893576
+channel 5 chip 0 die 0 plane 0 block 0 page 10
+lpn:770052 begin time:19999923828 complete time:20000396889 process time:473061
+channel 4 chip 0 die 0 plane 0 block 0 page 6
+lpn:770051 begin time:19999929688 complete time:20000396889 process time:467201
+channel 3 chip 0 die 0 plane 0 block 0 page 3
+lpn:770050 begin time:19999929688 complete time:20000596889 process time:667201
+channel 2 chip 0 die 0 plane 0 block 0 page 1
+lpn:2222087 begin time:19999777344 complete time:20000396889 process time:619545
+channel 7 chip 0 die 0 plane 0 block 0 page 0
+lpn:2222086 begin time:19999777344 complete time:20000596889 process time:819545
+channel 6 chip 0 die 0 plane 0 block 0 page 5
+lpn:2222085 begin time:19999777344 complete time:20000396889 process time:619545
+channel 5 chip 0 die 0 plane 0 block 0 page 9
+lpn:2222152 begin time:19999927734 complete time:20000248249 process time:320515
+channel 0 chip 2 die 0 plane 1 block 0 page 0
+lpn:2222151 begin time:19999927734 complete time:20000248249 process time:320515
+channel 7 chip 2 die 0 plane 0 block 0 page 0
+lpn:2222147 begin time:19999921875 complete time:20000242390 process time:320515
+channel 3 chip 2 die 0 plane 0 block 0 page 0
+lpn:2222146 begin time:19999921875 complete time:20000242390 process time:320515
+channel 2 chip 2 die 0 plane 0 block 0 page 0
+lpn:783523 begin time:19999755859 complete time:20000096889 process time:341030
+channel 3 chip 1 die 1 plane 0 block 0 page 0
+lpn:783522 begin time:19999755859 complete time:20000096889 process time:341030
+channel 2 chip 1 die 1 plane 0 block 0 page 0
+lpn:783521 begin time:19999755859 complete time:20000076374 process time:320515
+channel 1 chip 1 die 1 plane 0 block 0 page 0
+lpn:783520 begin time:19999755859 complete time:20000076374 process time:320515
+channel 0 chip 1 die 1 plane 0 block 0 page 0
+lpn:783519 begin time:19999755859 complete time:20000076374 process time:320515
+channel 7 chip 0 die 1 plane 3 block 0 page 0
+lpn:783518 begin time:19999755859 complete time:20000076374 process time:320515
+channel 6 chip 0 die 1 plane 3 block 0 page 0
+lpn:783517 begin time:19999755859 complete time:20000076374 process time:320515
+channel 5 chip 0 die 1 plane 3 block 0 page 0
+lpn:783516 begin time:19999755859 complete time:20000076374 process time:320515
+channel 4 chip 0 die 1 plane 3 block 0 page 0
+lpn:783515 begin time:19999755859 complete time:20000076374 process time:320515
+channel 3 chip 0 die 1 plane 3 block 0 page 0
+lpn:783514 begin time:19999755859 complete time:20000176374 process time:420515
+channel 2 chip 0 die 1 plane 3 block 0 page 1
+lpn:249875 begin time:17999806641 complete time:18000127156 process time:320515
+channel 3 chip 0 die 0 plane 2 block 0 page 0
+lpn:249874 begin time:17999806641 complete time:18000327156 process time:520515
+channel 2 chip 0 die 0 plane 2 block 0 page 2
+lpn:770052 begin time:14999960938 complete time:15000555874 process time:594936
+channel 4 chip 0 die 0 plane 0 block 0 page 5
+lpn:770051 begin time:14999960938 complete time:15000555874 process time:594936
+channel 3 chip 0 die 0 plane 0 block 0 page 2
+lpn:770054 begin time:14999951172 complete time:15000455874 process time:504702
+channel 6 chip 0 die 0 plane 0 block 0 page 4
+lpn:770053 begin time:14999951172 complete time:15000555874 process time:604702
+channel 5 chip 0 die 0 plane 0 block 0 page 8
+lpn:783514 begin time:14999714844 complete time:15000355874 process time:641030
+channel 2 chip 0 die 1 plane 3 block 0 page 0
+lpn:783513 begin time:14999714844 complete time:15000455874 process time:741030
+channel 1 chip 0 die 1 plane 3 block 0 page 0
+lpn:783512 begin time:14999714844 complete time:15000035359 process time:320515
+channel 0 chip 0 die 1 plane 3 block 0 page 0
+lpn:783511 begin time:14999714844 complete time:15000035359 process time:320515
+channel 7 chip 0 die 1 plane 2 block 0 page 0
+lpn:783510 begin time:14999714844 complete time:15000035359 process time:320515
+channel 6 chip 0 die 1 plane 2 block 0 page 0
+lpn:783509 begin time:14999714844 complete time:15000035359 process time:320515
+channel 5 chip 0 die 1 plane 2 block 0 page 0
+lpn:783508 begin time:14999714844 complete time:15000035359 process time:320515
+channel 4 chip 0 die 1 plane 2 block 0 page 0
+lpn:783507 begin time:14999714844 complete time:15000035359 process time:320515
+channel 3 chip 0 die 1 plane 2 block 0 page 0
+lpn:783506 begin time:14999714844 complete time:15000035359 process time:320515
+channel 2 chip 0 die 1 plane 2 block 0 page 0
+lpn:783505 begin time:14999714844 complete time:15000135359 process time:420515
+channel 1 chip 0 die 1 plane 2 block 0 page 1
+lpn:801317 begin time:13999964844 complete time:14000588296 process time:623452
+channel 5 chip 1 die 0 plane 0 block 0 page 0
+lpn:801316 begin time:13999964844 complete time:14000846311 process time:881467
+channel 4 chip 1 die 0 plane 0 block 0 page 0
+lpn:795952 begin time:13999964844 complete time:14000800014 process time:835170
+channel 0 chip 1 die 2 plane 2 block 0 page 0
+lpn:795951 begin time:13999964844 complete time:14000588296 process time:623452
+channel 7 chip 1 die 2 plane 1 block 0 page 0
+lpn:801324 begin time:13999933594 complete time:14000525796 process time:592202
+channel 4 chip 1 die 0 plane 1 block 0 page 0
+lpn:801323 begin time:13999933594 complete time:14000525796 process time:592202
+channel 3 chip 1 die 0 plane 1 block 0 page 0
+lpn:801322 begin time:13999933594 complete time:14000254109 process time:320515
+channel 2 chip 1 die 0 plane 1 block 0 page 0
+lpn:788001 begin time:13999958984 complete time:14000479499 process time:520515
+channel 1 chip 1 die 0 plane 0 block 0 page 2
+lpn:788000 begin time:13999958984 complete time:14000479499 process time:520515
+channel 0 chip 1 die 0 plane 0 block 0 page 8
+lpn:801298 begin time:13999964844 complete time:14000385359 process time:420515
+channel 2 chip 0 die 0 plane 2 block 0 page 1
+lpn:801297 begin time:13999964844 complete time:14000400014 process time:435170
+channel 1 chip 0 die 0 plane 2 block 0 page 1
+lpn:788068 begin time:13999964844 complete time:14000305874 process time:341030
+channel 4 chip 3 die 0 plane 0 block 0 page 0
+lpn:788067 begin time:13999964844 complete time:14000305874 process time:341030
+channel 3 chip 3 die 0 plane 0 block 0 page 0
+lpn:801278 begin time:13999960938 complete time:14000288296 process time:327358
+channel 6 chip 3 die 3 plane 3 block 0 page 0
+lpn:801277 begin time:13999960938 complete time:14000288296 process time:327358
+channel 5 chip 3 die 3 plane 3 block 0 page 0
+lpn:789276 begin time:13999964844 complete time:14000285359 process time:320515
+channel 4 chip 0 die 2 plane 3 block 0 page 0
+lpn:789275 begin time:13999964844 complete time:14000285359 process time:320515
+channel 3 chip 0 die 2 plane 3 block 0 page 0
+lpn:788543 begin time:13999947266 complete time:14000267781 process time:320515
+channel 7 chip 1 die 0 plane 3 block 0 page 0
+lpn:788542 begin time:13999947266 complete time:14000267781 process time:320515
+channel 6 chip 1 die 0 plane 3 block 0 page 0
+lpn:788541 begin time:13999947266 complete time:14000267781 process time:320515
+channel 5 chip 1 die 0 plane 3 block 0 page 0
+lpn:798116 begin time:13999884766 complete time:14000205281 process time:320515
+channel 4 chip 1 die 3 plane 0 block 0 page 0
+lpn:798115 begin time:13999884766 complete time:14000205281 process time:320515
+channel 3 chip 1 die 3 plane 0 block 0 page 0
+lpn:770051 begin time:9999992188 complete time:10000477358 process time:485170
+channel 3 chip 0 die 0 plane 0 block 0 page 1
+lpn:770050 begin time:9999992188 complete time:10000377358 process time:385170
+channel 2 chip 0 die 0 plane 0 block 0 page 0
+lpn:770053 begin time:9999982422 complete time:10000477358 process time:494936
+channel 5 chip 0 die 0 plane 0 block 0 page 7
+lpn:770052 begin time:9999982422 complete time:10000477358 process time:494936
+channel 4 chip 0 die 0 plane 0 block 0 page 4
+lpn:783505 begin time:9999736328 complete time:10000377358 process time:641030
+channel 1 chip 0 die 1 plane 2 block 0 page 0
+lpn:783504 begin time:9999736328 complete time:10000477358 process time:741030
+channel 0 chip 0 die 1 plane 2 block 0 page 0
+lpn:783503 begin time:9999736328 complete time:10000056843 process time:320515
+channel 7 chip 0 die 1 plane 1 block 0 page 0
+lpn:783502 begin time:9999736328 complete time:10000056843 process time:320515
+channel 6 chip 0 die 1 plane 1 block 0 page 0
+lpn:783501 begin time:9999736328 complete time:10000056843 process time:320515
+channel 5 chip 0 die 1 plane 1 block 0 page 0
+lpn:783500 begin time:9999736328 complete time:10000056843 process time:320515
+channel 4 chip 0 die 1 plane 1 block 0 page 0
+lpn:783499 begin time:9999736328 complete time:10000056843 process time:320515
+channel 3 chip 0 die 1 plane 1 block 0 page 0
+lpn:783498 begin time:9999736328 complete time:10000056843 process time:320515
+channel 2 chip 0 die 1 plane 1 block 0 page 0
+lpn:783497 begin time:9999736328 complete time:10000056843 process time:320515
+channel 1 chip 0 die 1 plane 1 block 0 page 0
+lpn:783496 begin time:9999736328 complete time:10000156843 process time:420515
+channel 0 chip 0 die 1 plane 1 block 0 page 1
+lpn:3316258 begin time:8140644531 complete time:8143568605 process time:2924074
+channel 2 chip 1 die 0 plane 0 block 0 page 7
+lpn:3316258 begin time:8140644531 complete time:8143148090 process time:2503559
+channel 2 chip 1 die 0 plane 0 block 0 page 6
+lpn:3316258 begin time:8140644531 complete time:8142827575 process time:2183044
+channel 2 chip 1 die 0 plane 0 block 0 page 5
+lpn:3316258 begin time:8140644531 complete time:8142307060 process time:1662529
+channel 2 chip 1 die 0 plane 0 block 0 page 4
+lpn:3316259 begin time:8140638672 complete time:8140959187 process time:320515
+channel 3 chip 1 die 0 plane 0 block 0 page 0
+lpn:3316258 begin time:8140638672 complete time:8141886545 process time:1247873
+channel 2 chip 1 die 0 plane 0 block 0 page 3
+lpn:3316258 begin time:8140638672 complete time:8141566030 process time:927358
+channel 2 chip 1 die 0 plane 0 block 0 page 2
+lpn:3316259 begin time:8140642578 complete time:8141379702 process time:737124
+channel 3 chip 1 die 0 plane 0 block 0 page 1
+lpn:3316258 begin time:8140625000 complete time:8141045515 process time:420515
+channel 2 chip 1 die 0 plane 0 block 0 page 1
+lpn:3315233 begin time:8125017578 complete time:8125941435 process time:923857
+channel 1 chip 1 die 0 plane 0 block 0 page 1
+lpn:3315232 begin time:8125017578 complete time:8128444010 process time:3426432
+channel 0 chip 1 die 0 plane 0 block 0 page 7
+lpn:3315232 begin time:8125017578 complete time:8128023495 process time:3005917
+channel 0 chip 1 die 0 plane 0 block 0 page 6
+lpn:3315232 begin time:8125017578 complete time:8127702980 process time:2685402
+channel 0 chip 1 die 0 plane 0 block 0 page 5
+lpn:3315232 begin time:8125017578 complete time:8127182465 process time:2164887
+channel 0 chip 1 die 0 plane 0 block 0 page 4
+lpn:3315232 begin time:8124996094 complete time:8126761950 process time:1765856
+channel 0 chip 1 die 0 plane 0 block 0 page 3
+lpn:3315232 begin time:8124970703 complete time:8126441435 process time:1470732
+channel 0 chip 1 die 0 plane 0 block 0 page 2
+lpn:770054 begin time:8125000000 complete time:8125500405 process time:500405
+channel 6 chip 0 die 0 plane 0 block 0 page 3
+lpn:770053 begin time:8125000000 complete time:8126020920 process time:1020920
+channel 5 chip 0 die 0 plane 0 block 0 page 6
+lpn:783496 begin time:8124998047 complete time:8125945920 process time:947873
+channel 0 chip 0 die 1 plane 1 block 0 page 0
+lpn:783495 begin time:8124998047 complete time:8125920920 process time:922873
+channel 7 chip 0 die 1 plane 0 block 0 page 1
+lpn:3315232 begin time:8124958984 complete time:8125920920 process time:961936
+channel 0 chip 1 die 0 plane 0 block 0 page 1
+lpn:770053 begin time:8124884766 complete time:8125700405 process time:815639
+channel 5 chip 0 die 0 plane 0 block 0 page 5
+lpn:770052 begin time:8124884766 complete time:8125500405 process time:615639
+channel 4 chip 0 die 0 plane 0 block 0 page 3
+lpn:3022864 begin time:8124996094 complete time:8125625405 process time:629311
+channel 0 chip 0 die 0 plane 2 block 0 page 3
+lpn:3022863 begin time:8124996094 complete time:8125500405 process time:504311
+channel 7 chip 0 die 0 plane 1 block 0 page 0
+lpn:3315233 begin time:8125007812 complete time:8125520920 process time:513108
+channel 1 chip 1 die 0 plane 0 block 0 page 0
+lpn:3021651 begin time:8124878906 complete time:8125520920 process time:642014
+channel 3 chip 2 die 2 plane 2 block 0 page 0
+lpn:3021650 begin time:8124878906 complete time:8125200405 process time:321499
+channel 2 chip 2 die 2 plane 2 block 0 page 0
+lpn:3021649 begin time:8124878906 complete time:8125220920 process time:342014
+channel 1 chip 2 die 2 plane 2 block 0 page 0
+lpn:3021648 begin time:8124878906 complete time:8125200405 process time:321499
+channel 0 chip 2 die 2 plane 2 block 0 page 0
+lpn:3021647 begin time:8124878906 complete time:8125200405 process time:321499
+channel 7 chip 2 die 2 plane 1 block 0 page 0
+lpn:3021646 begin time:8124878906 complete time:8125200405 process time:321499
+channel 6 chip 2 die 2 plane 1 block 0 page 0
+lpn:3021645 begin time:8124878906 complete time:8125200405 process time:321499
+channel 5 chip 2 die 2 plane 1 block 0 page 0
+lpn:3021644 begin time:8124878906 complete time:8125200405 process time:321499
+channel 4 chip 2 die 2 plane 1 block 0 page 0
+lpn:3021643 begin time:8124878906 complete time:8125200405 process time:321499
+channel 3 chip 2 die 2 plane 1 block 0 page 0
+lpn:3315232 begin time:8124957031 complete time:8125500405 process time:543374
+channel 0 chip 1 die 0 plane 0 block 0 page 0
+lpn:3316258 begin time:8124994141 complete time:8125314656 process time:320515
+channel 2 chip 1 die 0 plane 0 block 0 page 0
+lpn:3022848 begin time:8124984375 complete time:8125304890 process time:320515
+channel 0 chip 0 die 0 plane 0 block 0 page 0
+lpn:3022847 begin time:8124984375 complete time:8125304890 process time:320515
+channel 7 chip 3 die 3 plane 3 block 0 page 0
+lpn:3021217 begin time:8124859375 complete time:8125200405 process time:341030
+channel 1 chip 1 die 3 plane 0 block 0 page 0
+lpn:3021216 begin time:8124859375 complete time:8125179890 process time:320515
+channel 0 chip 1 die 3 plane 0 block 0 page 0
+lpn:3021215 begin time:8124859375 complete time:8125179890 process time:320515
+channel 7 chip 0 die 3 plane 3 block 0 page 0
+lpn:3021214 begin time:8124859375 complete time:8125179890 process time:320515
+channel 6 chip 0 die 3 plane 3 block 0 page 0
+lpn:3021213 begin time:8124859375 complete time:8125179890 process time:320515
+channel 5 chip 0 die 3 plane 3 block 0 page 0
+lpn:3021212 begin time:8124859375 complete time:8125179890 process time:320515
+channel 4 chip 0 die 3 plane 3 block 0 page 0
+lpn:3021211 begin time:8124859375 complete time:8125179890 process time:320515
+channel 3 chip 0 die 3 plane 3 block 0 page 0
+lpn:3021210 begin time:8124859375 complete time:8125179890 process time:320515
+channel 2 chip 0 die 3 plane 3 block 0 page 0
+lpn:3021209 begin time:8124859375 complete time:8125179890 process time:320515
+channel 1 chip 0 die 3 plane 3 block 0 page 0
+lpn:787259 begin time:4999962891 complete time:5000283406 process time:320515
+channel 3 chip 1 die 2 plane 3 block 0 page 0
+lpn:787258 begin time:4999962891 complete time:5000283406 process time:320515
+channel 2 chip 1 die 2 plane 3 block 0 page 0
+lpn:3113409 begin time:4999902344 complete time:5000222859 process time:320515
+channel 1 chip 2 die 3 plane 0 block 0 page 0
+lpn:3113408 begin time:4999902344 complete time:5000222859 process time:320515
+channel 0 chip 2 die 3 plane 0 block 0 page 0
+lpn:37657 begin time:2000025391 complete time:2000345906 process time:320515
+channel 1 chip 0 die 2 plane 3 block 0 page 0
+lpn:37656 begin time:2000025391 complete time:2000345906 process time:320515
+channel 0 chip 0 die 2 plane 3 block 0 page 0
+lpn:2199922 begin time:1999992188 complete time:2000312703 process time:320515
+channel 2 chip 3 die 2 plane 2 block 0 page 0
+lpn:783495 begin time:1999906250 complete time:2000226765 process time:320515
+channel 7 chip 0 die 1 plane 0 block 0 page 0
+lpn:783494 begin time:1999906250 complete time:2000226765 process time:320515
+channel 6 chip 0 die 1 plane 0 block 0 page 0
+lpn:783493 begin time:1999906250 complete time:2000226765 process time:320515
+channel 5 chip 0 die 1 plane 0 block 0 page 0
+lpn:770054 begin time:56641 complete time:1282060 process time:1225419
+channel 6 chip 0 die 0 plane 0 block 0 page 2
+lpn:770053 begin time:56641 complete time:2023090 process time:1966449
+channel 5 chip 0 die 0 plane 0 block 0 page 4
+lpn:770053 begin time:46875 complete time:1602575 process time:1555700
+channel 5 chip 0 die 0 plane 0 block 0 page 3
+lpn:770052 begin time:46875 complete time:779123 process time:732248
+channel 4 chip 0 die 0 plane 0 block 0 page 1
+lpn:770052 begin time:54688 complete time:1299638 process time:1244950
+channel 4 chip 0 die 0 plane 0 block 0 page 2
+lpn:770051 begin time:54688 complete time:375203 process time:320515
+channel 3 chip 0 die 0 plane 0 block 0 page 0
+lpn:249872 begin time:48828 complete time:1296701 process time:1247873
+channel 0 chip 0 die 0 plane 2 block 0 page 2
+lpn:770053 begin time:35156 complete time:1282060 process time:1246904
+channel 5 chip 0 die 0 plane 0 block 0 page 2
+lpn:770052 begin time:35156 complete time:358608 process time:323452
+channel 4 chip 0 die 0 plane 0 block 0 page 0
+lpn:250023 begin time:41016 complete time:361531 process time:320515
+channel 7 chip 1 die 1 plane 0 block 0 page 0
+lpn:250022 begin time:41016 complete time:782060 process time:741044
+channel 6 chip 1 die 1 plane 0 block 0 page 1
+lpn:249872 begin time:44922 complete time:776186 process time:731264
+channel 0 chip 0 die 0 plane 2 block 0 page 1
+lpn:770054 begin time:5859 complete time:761545 process time:755686
+channel 6 chip 0 die 0 plane 0 block 0 page 1
+lpn:770053 begin time:5859 complete time:761545 process time:755686
+channel 5 chip 0 die 0 plane 0 block 0 page 1
+lpn:254395 begin time:21484 complete time:758608 process time:737124
+channel 3 chip 1 die 3 plane 3 block 0 page 1
+lpn:48982 begin time:54688 complete time:741030 process time:686342
+channel 6 chip 2 die 2 plane 2 block 0 page 1
+lpn:48981 begin time:54688 complete time:741030 process time:686342
+channel 5 chip 2 die 2 plane 2 block 0 page 1
+lpn:250022 begin time:17578 complete time:361545 process time:343967
+channel 6 chip 1 die 1 plane 0 block 0 page 0
+lpn:250021 begin time:17578 complete time:361545 process time:343967
+channel 5 chip 1 die 1 plane 0 block 0 page 0
+lpn:249874 begin time:35156 complete time:355671 process time:320515
+channel 2 chip 0 die 0 plane 2 block 0 page 0
+lpn:249873 begin time:35156 complete time:355671 process time:320515
+channel 1 chip 0 die 0 plane 2 block 0 page 0
+lpn:249872 begin time:35156 complete time:355671 process time:320515
+channel 0 chip 0 die 0 plane 2 block 0 page 0
+lpn:770054 begin time:5859 complete time:341030 process time:335171
+channel 6 chip 0 die 0 plane 0 block 0 page 0
+lpn:770053 begin time:5859 complete time:341030 process time:335171
+channel 5 chip 0 die 0 plane 0 block 0 page 0
+lpn:254396 begin time:17578 complete time:338093 process time:320515
+channel 4 chip 1 die 3 plane 3 block 0 page 0
+lpn:254395 begin time:17578 complete time:338093 process time:320515
+channel 3 chip 1 die 3 plane 3 block 0 page 0
+lpn:48985 begin time:0 complete time:320515 process time:320515
+channel 1 chip 2 die 2 plane 3 block 0 page 0
+lpn:48984 begin time:0 complete time:320515 process time:320515
+channel 0 chip 2 die 2 plane 3 block 0 page 0
+lpn:48983 begin time:0 complete time:320515 process time:320515
+channel 7 chip 2 die 2 plane 2 block 0 page 0
+lpn:48982 begin time:0 complete time:320515 process time:320515
+channel 6 chip 2 die 2 plane 2 block 0 page 0
+lpn:48981 begin time:0 complete time:320515 process time:320515
+channel 5 chip 2 die 2 plane 2 block 0 page 0
+lpn:788543 begin time:34999792969 complete time:35000213484 process time:420515
+channel 7 chip 1 die 0 plane 3 block 0 page 1
+lpn:788542 begin time:34999792969 complete time:35000213484 process time:420515
+channel 6 chip 1 die 0 plane 3 block 0 page 1
+lpn:3113409 begin time:34999707031 complete time:35000127546 process time:420515
+channel 1 chip 2 die 3 plane 0 block 0 page 1
+lpn:3113408 begin time:34999707031 complete time:35000127546 process time:420515
+channel 0 chip 2 die 3 plane 0 block 0 page 1
+lpn:770051 begin time:29999865234 complete time:30000385749 process time:520515
+channel 3 chip 0 die 0 plane 0 block 0 page 5
+lpn:770050 begin time:29999865234 complete time:30000385749 process time:520515
+channel 2 chip 0 die 0 plane 0 block 0 page 2
+lpn:783541 begin time:29999613281 complete time:30000254311 process time:641030
+channel 5 chip 1 die 1 plane 2 block 0 page 0
+lpn:783540 begin time:29999613281 complete time:30000354311 process time:741030
+channel 4 chip 1 die 1 plane 2 block 0 page 0
+lpn:783539 begin time:29999613281 complete time:29999933796 process time:320515
+channel 3 chip 1 die 1 plane 2 block 0 page 0
+lpn:783538 begin time:29999613281 complete time:29999933796 process time:320515
+channel 2 chip 1 die 1 plane 2 block 0 page 0
+lpn:783537 begin time:29999613281 complete time:29999933796 process time:320515
+channel 1 chip 1 die 1 plane 2 block 0 page 0
+lpn:783536 begin time:29999613281 complete time:29999933796 process time:320515
+channel 0 chip 1 die 1 plane 2 block 0 page 0
+lpn:783535 begin time:29999613281 complete time:29999933796 process time:320515
+channel 7 chip 1 die 1 plane 1 block 0 page 0
+lpn:783534 begin time:29999613281 complete time:29999933796 process time:320515
+channel 6 chip 1 die 1 plane 1 block 0 page 0
+lpn:783533 begin time:29999613281 complete time:29999933796 process time:320515
+channel 5 chip 1 die 1 plane 1 block 0 page 0
+lpn:783532 begin time:29999613281 complete time:30000033796 process time:420515
+channel 4 chip 1 die 1 plane 1 block 0 page 1
+lpn:770053 begin time:29999841797 complete time:30000262312 process time:420515
+channel 5 chip 0 die 0 plane 0 block 0 page 16
+lpn:770052 begin time:29999841797 complete time:30000262312 process time:420515
+channel 4 chip 0 die 0 plane 0 block 0 page 10
+lpn:3284770 begin time:25999777344 complete time:26000097859 process time:320515
+channel 2 chip 1 die 2 plane 0 block 0 page 0
+lpn:143111 begin time:25999738281 complete time:26000058796 process time:320515
+channel 7 chip 0 die 2 plane 0 block 0 page 0
+lpn:143110 begin time:25999738281 complete time:26000058796 process time:320515
+channel 6 chip 0 die 2 plane 0 block 0 page 0
+lpn:2935566 begin time:25515496094 complete time:25517139091 process time:1642997
+channel 6 chip 0 die 2 plane 1 block 0 page 1
+lpn:2935565 begin time:25515496094 complete time:25517780121 process time:2284027
+channel 5 chip 0 die 2 plane 1 block 0 page 1
+lpn:2935564 begin time:25515496094 complete time:25517997699 process time:2501605
+channel 4 chip 0 die 2 plane 1 block 0 page 1
+lpn:2935566 begin time:25515486328 complete time:25516718576 process time:1232248
+channel 6 chip 0 die 2 plane 1 block 0 page 0
+lpn:2935565 begin time:25515486328 complete time:25517359606 process time:1873278
+channel 5 chip 0 die 2 plane 1 block 0 page 0
+lpn:2935564 begin time:25515486328 complete time:25517577184 process time:2090856
+channel 4 chip 0 die 2 plane 1 block 0 page 0
+lpn:105620 begin time:25515498047 complete time:25517256669 process time:1758622
+channel 4 chip 0 die 1 plane 2 block 0 page 2
+lpn:105619 begin time:25515498047 complete time:25516415639 process time:917592
+channel 3 chip 0 die 1 plane 2 block 0 page 2
+lpn:770053 begin time:25515519531 complete time:25517039091 process time:1519560
+channel 5 chip 0 die 0 plane 0 block 0 page 15
+lpn:770052 begin time:25515519531 complete time:25516736154 process time:1216623
+channel 4 chip 0 die 0 plane 0 block 0 page 9
+lpn:770053 begin time:25515517578 complete time:25516718576 process time:1200998
+channel 5 chip 0 die 0 plane 0 block 0 page 14
+lpn:770052 begin time:25515517578 complete time:25516415639 process time:898061
+channel 4 chip 0 die 0 plane 0 block 0 page 8
+lpn:162093 begin time:25515464844 complete time:25516174624 process time:709780
+channel 5 chip 1 die 2 plane 1 block 0 page 1
+lpn:162092 begin time:25515464844 complete time:25516495139 process time:1030295
+channel 4 chip 1 die 2 plane 1 block 0 page 1
+lpn:1553064 begin time:25515494141 complete time:25516413686 process time:919545
+channel 0 chip 1 die 1 plane 1 block 0 page 2
+lpn:1553063 begin time:25515494141 complete time:25516313686 process time:819545
+channel 7 chip 1 die 1 plane 0 block 0 page 3
+lpn:1553062 begin time:25515494141 complete time:25516218576 process time:724435
+channel 6 chip 1 die 1 plane 0 block 0 page 4
+lpn:770054 begin time:25515482422 complete time:25516398061 process time:915639
+channel 6 chip 0 die 0 plane 0 block 0 page 8
+lpn:770053 begin time:25515482422 complete time:25516198061 process time:715639
+channel 5 chip 0 die 0 plane 0 block 0 page 13
+lpn:346177 begin time:25515431641 complete time:25516141421 process time:709780
+channel 1 chip 2 die 0 plane 0 block 0 page 1
+lpn:291317 begin time:25515484375 complete time:25516133608 process time:649233
+channel 5 chip 3 die 3 plane 2 block 0 page 1
+lpn:291316 begin time:25515484375 complete time:25516133608 process time:649233
+channel 4 chip 3 die 3 plane 2 block 0 page 1
+lpn:291315 begin time:25515484375 complete time:25516133608 process time:649233
+channel 3 chip 3 die 3 plane 2 block 0 page 1
+lpn:783532 begin time:25515507812 complete time:25516074624 process time:566812
+channel 4 chip 1 die 1 plane 1 block 0 page 0
+lpn:783531 begin time:25515507812 complete time:25515928327 process time:420515
+channel 3 chip 1 die 1 plane 1 block 0 page 1
+lpn:1553064 begin time:25515472656 complete time:25515893171 process time:420515
+channel 0 chip 1 die 1 plane 1 block 0 page 1
+lpn:1553063 begin time:25515472656 complete time:25515993171 process time:520515
+channel 7 chip 1 die 1 plane 0 block 0 page 2
+lpn:1553062 begin time:25515472656 complete time:25515798061 process time:325405
+channel 6 chip 1 die 1 plane 0 block 0 page 3
+lpn:105620 begin time:25515474609 complete time:25515895124 process time:420515
+channel 4 chip 0 die 1 plane 2 block 0 page 1
+lpn:105619 begin time:25515474609 complete time:25515895124 process time:420515
+channel 3 chip 0 die 1 plane 2 block 0 page 1
+lpn:770054 begin time:25515457031 complete time:25515877546 process time:420515
+channel 6 chip 0 die 0 plane 0 block 0 page 7
+lpn:770053 begin time:25515457031 complete time:25515777546 process time:320515
+channel 5 chip 0 die 0 plane 0 block 0 page 12
+lpn:162093 begin time:25515433594 complete time:25515754109 process time:320515
+channel 5 chip 1 die 2 plane 1 block 0 page 0
+lpn:162092 begin time:25515433594 complete time:25515754109 process time:320515
+channel 4 chip 1 die 2 plane 1 block 0 page 0
+lpn:346177 begin time:25515400391 complete time:25515720906 process time:320515
+channel 1 chip 2 die 0 plane 0 block 0 page 0
+lpn:291317 begin time:25515392578 complete time:25515713093 process time:320515
+channel 5 chip 3 die 3 plane 2 block 0 page 0
+lpn:291316 begin time:25515392578 complete time:25515713093 process time:320515
+channel 4 chip 3 die 3 plane 2 block 0 page 0
+lpn:291315 begin time:25515392578 complete time:25515713093 process time:320515
+channel 3 chip 3 die 3 plane 2 block 0 page 0
+lpn:783531 begin time:24999667969 complete time:25000408999 process time:741030
+channel 3 chip 1 die 1 plane 1 block 0 page 0
+lpn:783530 begin time:24999667969 complete time:24999988484 process time:320515
+channel 2 chip 1 die 1 plane 1 block 0 page 0
+lpn:783529 begin time:24999667969 complete time:24999988484 process time:320515
+channel 1 chip 1 die 1 plane 1 block 0 page 0
+lpn:783528 begin time:24999667969 complete time:24999988484 process time:320515
+channel 0 chip 1 die 1 plane 1 block 0 page 0
+lpn:783527 begin time:24999667969 complete time:25000088484 process time:420515
+channel 7 chip 1 die 1 plane 0 block 0 page 1
+lpn:783526 begin time:24999667969 complete time:25000188484 process time:520515
+channel 6 chip 1 die 1 plane 0 block 0 page 2
+lpn:783525 begin time:24999667969 complete time:25000088484 process time:420515
+channel 5 chip 1 die 1 plane 0 block 0 page 1
+lpn:783524 begin time:24999667969 complete time:24999988484 process time:320515
+channel 4 chip 1 die 1 plane 0 block 0 page 0
+lpn:783523 begin time:24999667969 complete time:25000088484 process time:420515
+channel 3 chip 1 die 1 plane 0 block 0 page 1
+lpn:770054 begin time:24999886719 complete time:25000207234 process time:320515
+channel 6 chip 0 die 0 plane 0 block 0 page 6
+lpn:770053 begin time:24999886719 complete time:25000407234 process time:520515
+channel 5 chip 0 die 0 plane 0 block 0 page 11
+lpn:770052 begin time:24999894531 complete time:25000315046 process time:420515
+channel 4 chip 0 die 0 plane 0 block 0 page 7
+lpn:770051 begin time:24999894531 complete time:25000315046 process time:420515
+channel 3 chip 0 die 0 plane 0 block 0 page 4
+lpn:2883845 begin time:22999789062 complete time:23000109577 process time:320515
+channel 5 chip 0 die 2 plane 0 block 0 page 0
+lpn:2883844 begin time:22999789062 complete time:23000109577 process time:320515
+channel 4 chip 0 die 2 plane 0 block 0 page 0
+lpn:3083232 begin time:20999919922 complete time:21000530092 process time:610170
+channel 0 chip 3 die 3 plane 0 block 0 page 1
+lpn:3083231 begin time:20999919922 complete time:21000240437 process time:320515
+channel 7 chip 2 die 3 plane 3 block 0 page 0
+lpn:3083232 begin time:20999789062 complete time:21000109577 process time:320515
+channel 0 chip 3 die 3 plane 0 block 0 page 0
+lpn:3026750 begin time:20999755859 complete time:21000076374 process time:320515
+channel 6 chip 1 die 2 plane 3 block 0 page 0
+lpn:3026749 begin time:20999755859 complete time:21000076374 process time:320515
+channel 5 chip 1 die 2 plane 3 block 0 page 0
+lpn:770053 begin time:19999923828 complete time:20000817404 process time:893576
+channel 5 chip 0 die 0 plane 0 block 0 page 10
+lpn:770052 begin time:19999923828 complete time:20000396889 process time:473061
+channel 4 chip 0 die 0 plane 0 block 0 page 6
+lpn:770051 begin time:19999929688 complete time:20000396889 process time:467201
+channel 3 chip 0 die 0 plane 0 block 0 page 3
+lpn:770050 begin time:19999929688 complete time:20000596889 process time:667201
+channel 2 chip 0 die 0 plane 0 block 0 page 1
+lpn:2222087 begin time:19999777344 complete time:20000396889 process time:619545
+channel 7 chip 0 die 0 plane 0 block 0 page 0
+lpn:2222086 begin time:19999777344 complete time:20000596889 process time:819545
+channel 6 chip 0 die 0 plane 0 block 0 page 5
+lpn:2222085 begin time:19999777344 complete time:20000396889 process time:619545
+channel 5 chip 0 die 0 plane 0 block 0 page 9
+lpn:2222152 begin time:19999927734 complete time:20000248249 process time:320515
+channel 0 chip 2 die 0 plane 1 block 0 page 0
+lpn:2222151 begin time:19999927734 complete time:20000248249 process time:320515
+channel 7 chip 2 die 0 plane 0 block 0 page 0
+lpn:2222147 begin time:19999921875 complete time:20000242390 process time:320515
+channel 3 chip 2 die 0 plane 0 block 0 page 0
+lpn:2222146 begin time:19999921875 complete time:20000242390 process time:320515
+channel 2 chip 2 die 0 plane 0 block 0 page 0
+lpn:783523 begin time:19999755859 complete time:20000096889 process time:341030
+channel 3 chip 1 die 1 plane 0 block 0 page 0
+lpn:783522 begin time:19999755859 complete time:20000096889 process time:341030
+channel 2 chip 1 die 1 plane 0 block 0 page 0
+lpn:783521 begin time:19999755859 complete time:20000076374 process time:320515
+channel 1 chip 1 die 1 plane 0 block 0 page 0
+lpn:783520 begin time:19999755859 complete time:20000076374 process time:320515
+channel 0 chip 1 die 1 plane 0 block 0 page 0
+lpn:783519 begin time:19999755859 complete time:20000076374 process time:320515
+channel 7 chip 0 die 1 plane 3 block 0 page 0
+lpn:783518 begin time:19999755859 complete time:20000076374 process time:320515
+channel 6 chip 0 die 1 plane 3 block 0 page 0
+lpn:783517 begin time:19999755859 complete time:20000076374 process time:320515
+channel 5 chip 0 die 1 plane 3 block 0 page 0
+lpn:783516 begin time:19999755859 complete time:20000076374 process time:320515
+channel 4 chip 0 die 1 plane 3 block 0 page 0
+lpn:783515 begin time:19999755859 complete time:20000076374 process time:320515
+channel 3 chip 0 die 1 plane 3 block 0 page 0
+lpn:783514 begin time:19999755859 complete time:20000176374 process time:420515
+channel 2 chip 0 die 1 plane 3 block 0 page 1
+lpn:249875 begin time:17999806641 complete time:18000127156 process time:320515
+channel 3 chip 0 die 0 plane 2 block 0 page 0
+lpn:249874 begin time:17999806641 complete time:18000327156 process time:520515
+channel 2 chip 0 die 0 plane 2 block 0 page 2
+lpn:770052 begin time:14999960938 complete time:15000555874 process time:594936
+channel 4 chip 0 die 0 plane 0 block 0 page 5
+lpn:770051 begin time:14999960938 complete time:15000555874 process time:594936
+channel 3 chip 0 die 0 plane 0 block 0 page 2
+lpn:770054 begin time:14999951172 complete time:15000455874 process time:504702
+channel 6 chip 0 die 0 plane 0 block 0 page 4
+lpn:770053 begin time:14999951172 complete time:15000555874 process time:604702
+channel 5 chip 0 die 0 plane 0 block 0 page 8
+lpn:783514 begin time:14999714844 complete time:15000355874 process time:641030
+channel 2 chip 0 die 1 plane 3 block 0 page 0
+lpn:783513 begin time:14999714844 complete time:15000455874 process time:741030
+channel 1 chip 0 die 1 plane 3 block 0 page 0
+lpn:783512 begin time:14999714844 complete time:15000035359 process time:320515
+channel 0 chip 0 die 1 plane 3 block 0 page 0
+lpn:783511 begin time:14999714844 complete time:15000035359 process time:320515
+channel 7 chip 0 die 1 plane 2 block 0 page 0
+lpn:783510 begin time:14999714844 complete time:15000035359 process time:320515
+channel 6 chip 0 die 1 plane 2 block 0 page 0
+lpn:783509 begin time:14999714844 complete time:15000035359 process time:320515
+channel 5 chip 0 die 1 plane 2 block 0 page 0
+lpn:783508 begin time:14999714844 complete time:15000035359 process time:320515
+channel 4 chip 0 die 1 plane 2 block 0 page 0
+lpn:783507 begin time:14999714844 complete time:15000035359 process time:320515
+channel 3 chip 0 die 1 plane 2 block 0 page 0
+lpn:783506 begin time:14999714844 complete time:15000035359 process time:320515
+channel 2 chip 0 die 1 plane 2 block 0 page 0
+lpn:783505 begin time:14999714844 complete time:15000135359 process time:420515
+channel 1 chip 0 die 1 plane 2 block 0 page 1
+lpn:801317 begin time:13999964844 complete time:14000588296 process time:623452
+channel 5 chip 1 die 0 plane 0 block 0 page 0
+lpn:801316 begin time:13999964844 complete time:14000846311 process time:881467
+channel 4 chip 1 die 0 plane 0 block 0 page 0
+lpn:795952 begin time:13999964844 complete time:14000800014 process time:835170
+channel 0 chip 1 die 2 plane 2 block 0 page 0
+lpn:795951 begin time:13999964844 complete time:14000588296 process time:623452
+channel 7 chip 1 die 2 plane 1 block 0 page 0
+lpn:801324 begin time:13999933594 complete time:14000525796 process time:592202
+channel 4 chip 1 die 0 plane 1 block 0 page 0
+lpn:801323 begin time:13999933594 complete time:14000525796 process time:592202
+channel 3 chip 1 die 0 plane 1 block 0 page 0
+lpn:801322 begin time:13999933594 complete time:14000254109 process time:320515
+channel 2 chip 1 die 0 plane 1 block 0 page 0
+lpn:788001 begin time:13999958984 complete time:14000479499 process time:520515
+channel 1 chip 1 die 0 plane 0 block 0 page 2
+lpn:788000 begin time:13999958984 complete time:14000479499 process time:520515
+channel 0 chip 1 die 0 plane 0 block 0 page 8
+lpn:801298 begin time:13999964844 complete time:14000385359 process time:420515
+channel 2 chip 0 die 0 plane 2 block 0 page 1
+lpn:801297 begin time:13999964844 complete time:14000400014 process time:435170
+channel 1 chip 0 die 0 plane 2 block 0 page 1
+lpn:788068 begin time:13999964844 complete time:14000305874 process time:341030
+channel 4 chip 3 die 0 plane 0 block 0 page 0
+lpn:788067 begin time:13999964844 complete time:14000305874 process time:341030
+channel 3 chip 3 die 0 plane 0 block 0 page 0
+lpn:801278 begin time:13999960938 complete time:14000288296 process time:327358
+channel 6 chip 3 die 3 plane 3 block 0 page 0
+lpn:801277 begin time:13999960938 complete time:14000288296 process time:327358
+channel 5 chip 3 die 3 plane 3 block 0 page 0
+lpn:789276 begin time:13999964844 complete time:14000285359 process time:320515
+channel 4 chip 0 die 2 plane 3 block 0 page 0
+lpn:789275 begin time:13999964844 complete time:14000285359 process time:320515
+channel 3 chip 0 die 2 plane 3 block 0 page 0
+lpn:788543 begin time:13999947266 complete time:14000267781 process time:320515
+channel 7 chip 1 die 0 plane 3 block 0 page 0
+lpn:788542 begin time:13999947266 complete time:14000267781 process time:320515
+channel 6 chip 1 die 0 plane 3 block 0 page 0
+lpn:788541 begin time:13999947266 complete time:14000267781 process time:320515
+channel 5 chip 1 die 0 plane 3 block 0 page 0
+lpn:798116 begin time:13999884766 complete time:14000205281 process time:320515
+channel 4 chip 1 die 3 plane 0 block 0 page 0
+lpn:798115 begin time:13999884766 complete time:14000205281 process time:320515
+channel 3 chip 1 die 3 plane 0 block 0 page 0
+lpn:770051 begin time:9999992188 complete time:10000477358 process time:485170
+channel 3 chip 0 die 0 plane 0 block 0 page 1
+lpn:770050 begin time:9999992188 complete time:10000377358 process time:385170
+channel 2 chip 0 die 0 plane 0 block 0 page 0
+lpn:770053 begin time:9999982422 complete time:10000477358 process time:494936
+channel 5 chip 0 die 0 plane 0 block 0 page 7
+lpn:770052 begin time:9999982422 complete time:10000477358 process time:494936
+channel 4 chip 0 die 0 plane 0 block 0 page 4
+lpn:783505 begin time:9999736328 complete time:10000377358 process time:641030
+channel 1 chip 0 die 1 plane 2 block 0 page 0
+lpn:783504 begin time:9999736328 complete time:10000477358 process time:741030
+channel 0 chip 0 die 1 plane 2 block 0 page 0
+lpn:783503 begin time:9999736328 complete time:10000056843 process time:320515
+channel 7 chip 0 die 1 plane 1 block 0 page 0
+lpn:783502 begin time:9999736328 complete time:10000056843 process time:320515
+channel 6 chip 0 die 1 plane 1 block 0 page 0
+lpn:783501 begin time:9999736328 complete time:10000056843 process time:320515
+channel 5 chip 0 die 1 plane 1 block 0 page 0
+lpn:783500 begin time:9999736328 complete time:10000056843 process time:320515
+channel 4 chip 0 die 1 plane 1 block 0 page 0
+lpn:783499 begin time:9999736328 complete time:10000056843 process time:320515
+channel 3 chip 0 die 1 plane 1 block 0 page 0
+lpn:783498 begin time:9999736328 complete time:10000056843 process time:320515
+channel 2 chip 0 die 1 plane 1 block 0 page 0
+lpn:783497 begin time:9999736328 complete time:10000056843 process time:320515
+channel 1 chip 0 die 1 plane 1 block 0 page 0
+lpn:783496 begin time:9999736328 complete time:10000156843 process time:420515
+channel 0 chip 0 die 1 plane 1 block 0 page 1
+lpn:3316258 begin time:8140644531 complete time:8143568605 process time:2924074
+channel 2 chip 1 die 0 plane 0 block 0 page 7
+lpn:3316258 begin time:8140644531 complete time:8143148090 process time:2503559
+channel 2 chip 1 die 0 plane 0 block 0 page 6
+lpn:3316258 begin time:8140644531 complete time:8142827575 process time:2183044
+channel 2 chip 1 die 0 plane 0 block 0 page 5
+lpn:3316258 begin time:8140644531 complete time:8142307060 process time:1662529
+channel 2 chip 1 die 0 plane 0 block 0 page 4
+lpn:3316259 begin time:8140638672 complete time:8140959187 process time:320515
+channel 3 chip 1 die 0 plane 0 block 0 page 0
+lpn:3316258 begin time:8140638672 complete time:8141886545 process time:1247873
+channel 2 chip 1 die 0 plane 0 block 0 page 3
+lpn:3316258 begin time:8140638672 complete time:8141566030 process time:927358
+channel 2 chip 1 die 0 plane 0 block 0 page 2
+lpn:3316259 begin time:8140642578 complete time:8141379702 process time:737124
+channel 3 chip 1 die 0 plane 0 block 0 page 1
+lpn:3316258 begin time:8140625000 complete time:8141045515 process time:420515
+channel 2 chip 1 die 0 plane 0 block 0 page 1
+lpn:3315233 begin time:8125017578 complete time:8125941435 process time:923857
+channel 1 chip 1 die 0 plane 0 block 0 page 1
+lpn:3315232 begin time:8125017578 complete time:8128444010 process time:3426432
+channel 0 chip 1 die 0 plane 0 block 0 page 7
+lpn:3315232 begin time:8125017578 complete time:8128023495 process time:3005917
+channel 0 chip 1 die 0 plane 0 block 0 page 6
+lpn:3315232 begin time:8125017578 complete time:8127702980 process time:2685402
+channel 0 chip 1 die 0 plane 0 block 0 page 5
+lpn:3315232 begin time:8125017578 complete time:8127182465 process time:2164887
+channel 0 chip 1 die 0 plane 0 block 0 page 4
+lpn:3315232 begin time:8124996094 complete time:8126761950 process time:1765856
+channel 0 chip 1 die 0 plane 0 block 0 page 3
+lpn:3315232 begin time:8124970703 complete time:8126441435 process time:1470732
+channel 0 chip 1 die 0 plane 0 block 0 page 2
+lpn:770054 begin time:8125000000 complete time:8125500405 process time:500405
+channel 6 chip 0 die 0 plane 0 block 0 page 3
+lpn:770053 begin time:8125000000 complete time:8126020920 process time:1020920
+channel 5 chip 0 die 0 plane 0 block 0 page 6
+lpn:783496 begin time:8124998047 complete time:8125945920 process time:947873
+channel 0 chip 0 die 1 plane 1 block 0 page 0
+lpn:783495 begin time:8124998047 complete time:8125920920 process time:922873
+channel 7 chip 0 die 1 plane 0 block 0 page 1
+lpn:3315232 begin time:8124958984 complete time:8125920920 process time:961936
+channel 0 chip 1 die 0 plane 0 block 0 page 1
+lpn:770053 begin time:8124884766 complete time:8125700405 process time:815639
+channel 5 chip 0 die 0 plane 0 block 0 page 5
+lpn:770052 begin time:8124884766 complete time:8125500405 process time:615639
+channel 4 chip 0 die 0 plane 0 block 0 page 3
+lpn:3022864 begin time:8124996094 complete time:8125625405 process time:629311
+channel 0 chip 0 die 0 plane 2 block 0 page 3
+lpn:3022863 begin time:8124996094 complete time:8125500405 process time:504311
+channel 7 chip 0 die 0 plane 1 block 0 page 0
+lpn:3315233 begin time:8125007812 complete time:8125520920 process time:513108
+channel 1 chip 1 die 0 plane 0 block 0 page 0
+lpn:3021651 begin time:8124878906 complete time:8125520920 process time:642014
+channel 3 chip 2 die 2 plane 2 block 0 page 0
+lpn:3021650 begin time:8124878906 complete time:8125200405 process time:321499
+channel 2 chip 2 die 2 plane 2 block 0 page 0
+lpn:3021649 begin time:8124878906 complete time:8125220920 process time:342014
+channel 1 chip 2 die 2 plane 2 block 0 page 0
+lpn:3021648 begin time:8124878906 complete time:8125200405 process time:321499
+channel 0 chip 2 die 2 plane 2 block 0 page 0
+lpn:3021647 begin time:8124878906 complete time:8125200405 process time:321499
+channel 7 chip 2 die 2 plane 1 block 0 page 0
+lpn:3021646 begin time:8124878906 complete time:8125200405 process time:321499
+channel 6 chip 2 die 2 plane 1 block 0 page 0
+lpn:3021645 begin time:8124878906 complete time:8125200405 process time:321499
+channel 5 chip 2 die 2 plane 1 block 0 page 0
+lpn:3021644 begin time:8124878906 complete time:8125200405 process time:321499
+channel 4 chip 2 die 2 plane 1 block 0 page 0
+lpn:3021643 begin time:8124878906 complete time:8125200405 process time:321499
+channel 3 chip 2 die 2 plane 1 block 0 page 0
+lpn:3315232 begin time:8124957031 complete time:8125500405 process time:543374
+channel 0 chip 1 die 0 plane 0 block 0 page 0
+lpn:3316258 begin time:8124994141 complete time:8125314656 process time:320515
+channel 2 chip 1 die 0 plane 0 block 0 page 0
+lpn:3022848 begin time:8124984375 complete time:8125304890 process time:320515
+channel 0 chip 0 die 0 plane 0 block 0 page 0
+lpn:3022847 begin time:8124984375 complete time:8125304890 process time:320515
+channel 7 chip 3 die 3 plane 3 block 0 page 0
+lpn:3021217 begin time:8124859375 complete time:8125200405 process time:341030
+channel 1 chip 1 die 3 plane 0 block 0 page 0
+lpn:3021216 begin time:8124859375 complete time:8125179890 process time:320515
+channel 0 chip 1 die 3 plane 0 block 0 page 0
+lpn:3021215 begin time:8124859375 complete time:8125179890 process time:320515
+channel 7 chip 0 die 3 plane 3 block 0 page 0
+lpn:3021214 begin time:8124859375 complete time:8125179890 process time:320515
+channel 6 chip 0 die 3 plane 3 block 0 page 0
+lpn:3021213 begin time:8124859375 complete time:8125179890 process time:320515
+channel 5 chip 0 die 3 plane 3 block 0 page 0
+lpn:3021212 begin time:8124859375 complete time:8125179890 process time:320515
+channel 4 chip 0 die 3 plane 3 block 0 page 0
+lpn:3021211 begin time:8124859375 complete time:8125179890 process time:320515
+channel 3 chip 0 die 3 plane 3 block 0 page 0
+lpn:3021210 begin time:8124859375 complete time:8125179890 process time:320515
+channel 2 chip 0 die 3 plane 3 block 0 page 0
+lpn:3021209 begin time:8124859375 complete time:8125179890 process time:320515
+channel 1 chip 0 die 3 plane 3 block 0 page 0
+lpn:787259 begin time:4999962891 complete time:5000283406 process time:320515
+channel 3 chip 1 die 2 plane 3 block 0 page 0
+lpn:787258 begin time:4999962891 complete time:5000283406 process time:320515
+channel 2 chip 1 die 2 plane 3 block 0 page 0
+lpn:3113409 begin time:4999902344 complete time:5000222859 process time:320515
+channel 1 chip 2 die 3 plane 0 block 0 page 0
+lpn:3113408 begin time:4999902344 complete time:5000222859 process time:320515
+channel 0 chip 2 die 3 plane 0 block 0 page 0
+lpn:37657 begin time:2000025391 complete time:2000345906 process time:320515
+channel 1 chip 0 die 2 plane 3 block 0 page 0
+lpn:37656 begin time:2000025391 complete time:2000345906 process time:320515
+channel 0 chip 0 die 2 plane 3 block 0 page 0
+lpn:2199922 begin time:1999992188 complete time:2000312703 process time:320515
+channel 2 chip 3 die 2 plane 2 block 0 page 0
+lpn:783495 begin time:1999906250 complete time:2000226765 process time:320515
+channel 7 chip 0 die 1 plane 0 block 0 page 0
+lpn:783494 begin time:1999906250 complete time:2000226765 process time:320515
+channel 6 chip 0 die 1 plane 0 block 0 page 0
+lpn:783493 begin time:1999906250 complete time:2000226765 process time:320515
+channel 5 chip 0 die 1 plane 0 block 0 page 0
+lpn:770054 begin time:56641 complete time:1282060 process time:1225419
+channel 6 chip 0 die 0 plane 0 block 0 page 2
+lpn:770053 begin time:56641 complete time:2023090 process time:1966449
+channel 5 chip 0 die 0 plane 0 block 0 page 4
+lpn:770053 begin time:46875 complete time:1602575 process time:1555700
+channel 5 chip 0 die 0 plane 0 block 0 page 3
+lpn:770052 begin time:46875 complete time:779123 process time:732248
+channel 4 chip 0 die 0 plane 0 block 0 page 1
+lpn:770052 begin time:54688 complete time:1299638 process time:1244950
+channel 4 chip 0 die 0 plane 0 block 0 page 2
+lpn:770051 begin time:54688 complete time:375203 process time:320515
+channel 3 chip 0 die 0 plane 0 block 0 page 0
+lpn:249872 begin time:48828 complete time:1296701 process time:1247873
+channel 0 chip 0 die 0 plane 2 block 0 page 2
+lpn:770053 begin time:35156 complete time:1282060 process time:1246904
+channel 5 chip 0 die 0 plane 0 block 0 page 2
+lpn:770052 begin time:35156 complete time:358608 process time:323452
+channel 4 chip 0 die 0 plane 0 block 0 page 0
+lpn:250023 begin time:41016 complete time:361531 process time:320515
+channel 7 chip 1 die 1 plane 0 block 0 page 0
+lpn:250022 begin time:41016 complete time:782060 process time:741044
+channel 6 chip 1 die 1 plane 0 block 0 page 1
+lpn:249872 begin time:44922 complete time:776186 process time:731264
+channel 0 chip 0 die 0 plane 2 block 0 page 1
+lpn:770054 begin time:5859 complete time:761545 process time:755686
+channel 6 chip 0 die 0 plane 0 block 0 page 1
+lpn:770053 begin time:5859 complete time:761545 process time:755686
+channel 5 chip 0 die 0 plane 0 block 0 page 1
+lpn:254395 begin time:21484 complete time:758608 process time:737124
+channel 3 chip 1 die 3 plane 3 block 0 page 1
+lpn:48982 begin time:54688 complete time:741030 process time:686342
+channel 6 chip 2 die 2 plane 2 block 0 page 1
+lpn:48981 begin time:54688 complete time:741030 process time:686342
+channel 5 chip 2 die 2 plane 2 block 0 page 1
+lpn:250022 begin time:17578 complete time:361545 process time:343967
+channel 6 chip 1 die 1 plane 0 block 0 page 0
+lpn:250021 begin time:17578 complete time:361545 process time:343967
+channel 5 chip 1 die 1 plane 0 block 0 page 0
+lpn:249874 begin time:35156 complete time:355671 process time:320515
+channel 2 chip 0 die 0 plane 2 block 0 page 0
+lpn:249873 begin time:35156 complete time:355671 process time:320515
+channel 1 chip 0 die 0 plane 2 block 0 page 0
+lpn:249872 begin time:35156 complete time:355671 process time:320515
+channel 0 chip 0 die 0 plane 2 block 0 page 0
+lpn:770054 begin time:5859 complete time:341030 process time:335171
+channel 6 chip 0 die 0 plane 0 block 0 page 0
+lpn:770053 begin time:5859 complete time:341030 process time:335171
+channel 5 chip 0 die 0 plane 0 block 0 page 0
+lpn:254396 begin time:17578 complete time:338093 process time:320515
+channel 4 chip 1 die 3 plane 3 block 0 page 0
+lpn:254395 begin time:17578 complete time:338093 process time:320515
+channel 3 chip 1 die 3 plane 3 block 0 page 0
+lpn:48985 begin time:0 complete time:320515 process time:320515
+channel 1 chip 2 die 2 plane 3 block 0 page 0
+lpn:48984 begin time:0 complete time:320515 process time:320515
+channel 0 chip 2 die 2 plane 3 block 0 page 0
+lpn:48983 begin time:0 complete time:320515 process time:320515
+channel 7 chip 2 die 2 plane 2 block 0 page 0
+lpn:48982 begin time:0 complete time:320515 process time:320515
+channel 6 chip 2 die 2 plane 2 block 0 page 0
+lpn:48981 begin time:0 complete time:320515 process time:320515
+channel 5 chip 2 die 2 plane 2 block 0 page 0
